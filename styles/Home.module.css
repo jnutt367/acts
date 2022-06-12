@@ -1,0 +1,202 @@
+.container {
+    padding: 0 2rem;
+    background-image: url(/cloud_lightning.webp);
+    background-size: contain;
+}
+
+.main {
+    background-color: #eaeaea;
+    background-size: contain;
+    background-size: contain;
+    min-height: 100vh;
+    padding: 4rem 0;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.footer {
+    display: flex;
+    flex: 1;
+    padding: 2rem 0;
+    border-top: 1px solid #eaeaea;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.nav ul {
+    display: flex;
+    flex-basis: auto;
+    color: #fafafa;
+    justify-content: space-around;
+    list-style: none;
+    font-size: xx-large;
+    padding-top: 3rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.title a {
+    color: rgba(214, 123, 20, 0.993);
+    text-decoration: none;
+}
+
+.title a:hover,
+.title a:focus,
+.title a:active {
+    text-decoration: underline;
+}
+
+.title {
+    margin: 0;
+    line-height: 1.15;
+    font-size: 4rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.title,
+.description {
+    text-align: center;
+}
+
+.description {
+    margin: 4rem 0;
+    line-height: 1.5;
+    font-size: 1.5rem;
+}
+
+.code {
+    border-radius: 5px;
+    color: white;
+    background-image: url(/cloud_lightning.webp);
+    padding: 3rem;
+    font-size: 1.1rem;
+    font-weight: 900;
+    font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
+}
+
+.code:hover {
+    color: white;
+    text-shadow: 5px 5px black;
+}
+
+.nav ul li {
+    display: flex;
+    flex-basis: auto;
+    color: #fafafa;
+    justify-content: space-around;
+    list-style: none;
+    font-size: xx-large;
+    padding-top: 3rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.nav ul:hover {
+    color: orange;
+    text-decoration: underline;
+}
+
+.grid {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 1400px;
+}
+
+.illustration {
+    padding-top: 3rem;
+    border-radius: 15px;
+    margin-right: 3rem;
+}
+
+.card {
+    margin: 1rem;
+    padding: 1.5rem;
+    text-align: left;
+    color: inherit;
+    max-height: 300px;
+    overflow: scroll;
+    text-decoration: none;
+    border: 1px solid #eaeaea;
+    border-radius: 10px;
+    transition: color 0.15s ease, border-color 0.15s ease;
+    max-width: 300px;
+    font-family: monospace;
+}
+
+.card:hover,
+.card:focus,
+.card:active {
+    color: black;
+    text-underline-position: above;
+    border-color: hsl(212, 100%, 48%);
+    background-image: url(/monophy.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    opacity: 0.75;
+    overflow: scroll;
+    font-family: monospace;
+}
+
+.card h2 {
+    margin: 0 0 1rem 0;
+    font-size: 1.5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.card h2:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+.card p {
+    margin: 0;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    font-family: monospace;
+}
+
+.card p:hover {
+    text-decoration: underline;
+    font-weight: 900;
+}
+
+.logo {
+    height: 1em;
+    margin-left: 0.5rem;
+}
+
+.publisher {
+    font-family: monospace;
+    color: black;
+    font-size: 1.5rem;
+}
+
+@media (max-width: 600px) {
+    .grid {
+        width: 100%;
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 769px) {
+    .nav ul {
+        display: none;
+        color: #fafafa;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        margin-left: -2rem;
+    }
+}
