@@ -58,7 +58,7 @@ and,
 </p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="" className={styles.card}>
             <h2>The Holy Spirit Comes at Pentecost &darr;</h2>
             <p>
 2 When the day of Pentecost came, they were all together in one place. 2 Suddenly a sound like the blowing of a violent wind came from heaven and filled the whole house where they were sitting. 3 They saw what seemed to be tongues of fire that separated and came to rest on each of them. 4 All of them were filled with the Holy Spirit and began to speak in other tongues[a] as the Spirit enabled them.
@@ -121,7 +121,7 @@ The Fellowship of the Believers
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
+            href=""
             className={styles.card}
           >
             <h2>Peter Heals a Lame Beggar &darr;</h2>
@@ -139,52 +139,234 @@ Peter Speaks to the Onlookers
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href=""
             className={styles.card}
           >
-            <h2>Deploy &rarr;</h2>
+            <h2> Peter and John Before the Sanhedrin &darr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+           
+4 The priests and the captain of the temple guard and the Sadducees came up to Peter and John while they were speaking to the people. 2 They were greatly disturbed because the apostles were teaching the people, proclaiming in Jesus the resurrection of the dead. 3 They seized Peter and John and, because it was evening, they put them in jail until the next day. 4 But many who heard the message believed; so the number of men who believed grew to about five thousand.
+
+5 The next day the rulers, the elders and the teachers of the law met in Jerusalem. 6 Annas the high priest was there, and so were Caiaphas, John, Alexander and others of the high priest’s family. 7 They had Peter and John brought before them and began to question them: “By what power or what name did you do this?”
+
+8 Then Peter, filled with the Holy Spirit, said to them: “Rulers and elders of the people! 9 If we are being called to account today for an act of kindness shown to a man who was lame and are being asked how he was healed, 10 then know this, you and all the people of Israel: It is by the name of Jesus Christ of Nazareth, whom you crucified but whom God raised from the dead, that this man stands before you healed. 11 Jesus is
+
+“‘the stone you builders rejected,
+    which has become the cornerstone.’[a]
+
+12 Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved.”
+
+13 When they saw the courage of Peter and John and realized that they were unschooled, ordinary men, they were astonished and they took note that these men had been with Jesus. 14 But since they could see the man who had been healed standing there with them, there was nothing they could say. 15 So they ordered them to withdraw from the Sanhedrin and then conferred together. 16 “What are we going to do with these men?” they asked. “Everyone living in Jerusalem knows they have performed a notable sign, and we cannot deny it. 17 But to stop this thing from spreading any further among the people, we must warn them to speak no longer to anyone in this name.”
+
+18 Then they called them in again and commanded them not to speak or teach at all in the name of Jesus. 19 But Peter and John replied, “Which is right in God’s eyes: to listen to you, or to him? You be the judges! 20 As for us, we cannot help speaking about what we have seen and heard.”
+
+21 After further threats they let them go. They could not decide how to punish them, because all the people were praising God for what had happened. 22 For the man who was miraculously healed was over forty years old.
+
+The Believers Pray
+23 On their release, Peter and John went back to their own people and reported all that the chief priests and the elders had said to them. 24 When they heard this, they raised their voices together in prayer to God. “Sovereign Lord,” they said, “you made the heavens and the earth and the sea, and everything in them. 25 You spoke by the Holy Spirit through the mouth of your servant, our father David:
+
+“‘Why do the nations rage
+    and the peoples plot in vain?
+26 The kings of the earth rise up
+    and the rulers band together
+against the Lord
+    and against his anointed one.[b]’[c]
+
+27 Indeed Herod and Pontius Pilate met together with the Gentiles and the people of Israel in this city to conspire against your holy servant Jesus, whom you anointed. 28 They did what your power and will had decided beforehand should happen. 29 Now, Lord, consider their threats and enable your servants to speak your word with great boldness. 30 Stretch out your hand to heal and perform signs and wonders through the name of your holy servant Jesus.”
+
+31 After they prayed, the place where they were meeting was shaken. And they were all filled with the Holy Spirit and spoke the word of God boldly.
+
+The Believers Share Their Possessions
+32 All the believers were one in heart and mind. No one claimed that any of their possessions was their own, but they shared everything they had. 33 With great power the apostles continued to testify to the resurrection of the Lord Jesus. And God’s grace was so powerfully at work in them all 34 that there were no needy persons among them. For from time to time those who owned land or houses sold them, brought the money from the sales 35 and put it at the apostles’ feet, and it was distributed to anyone who had need.
+
+36 Joseph, a Levite from Cyprus, whom the apostles called Barnabas (which means “son of encouragement”), 37 sold a field he owned and brought the money and put it at the apostles’ feet.
+
+
             </p>
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href=""
             className={styles.card}
           >
-            <h2>Deploy &rarr;</h2>
+            <h2>Ananias and Sapphira &darr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+            
+5 Now a man named Ananias, together with his wife Sapphira, also sold a piece of property. 2 With his wife’s full knowledge he kept back part of the money for himself, but brought the rest and put it at the apostles’ feet.
+
+3 Then Peter said, “Ananias, how is it that Satan has so filled your heart that you have lied to the Holy Spirit and have kept for yourself some of the money you received for the land? 4 Didn’t it belong to you before it was sold? And after it was sold, wasn’t the money at your disposal? What made you think of doing such a thing? You have not lied just to human beings but to God.”
+
+5 When Ananias heard this, he fell down and died. And great fear seized all who heard what had happened. 6 Then some young men came forward, wrapped up his body, and carried him out and buried him.
+
+7 About three hours later his wife came in, not knowing what had happened. 8 Peter asked her, “Tell me, is this the price you and Ananias got for the land?”
+
+“Yes,” she said, “that is the price.”
+
+9 Peter said to her, “How could you conspire to test the Spirit of the Lord? Listen! The feet of the men who buried your husband are at the door, and they will carry you out also.”
+
+10 At that moment she fell down at his feet and died. Then the young men came in and, finding her dead, carried her out and buried her beside her husband. 11 Great fear seized the whole church and all who heard about these events.
+
+The Apostles Heal Many
+12 The apostles performed many signs and wonders among the people. And all the believers used to meet together in Solomon’s Colonnade. 13 No one else dared join them, even though they were highly regarded by the people. 14 Nevertheless, more and more men and women believed in the Lord and were added to their number. 15 As a result, people brought the sick into the streets and laid them on beds and mats so that at least Peter’s shadow might fall on some of them as he passed by. 16 Crowds gathered also from the towns around Jerusalem, bringing their sick and those tormented by impure spirits, and all of them were healed.
+
+The Apostles Persecuted
+17 Then the high priest and all his associates, who were members of the party of the Sadducees, were filled with jealousy. 18 They arrested the apostles and put them in the public jail. 19 But during the night an angel of the Lord opened the doors of the jail and brought them out. 20 “Go, stand in the temple courts,” he said, “and tell the people all about this new life.”
+
+21 At daybreak they entered the temple courts, as they had been told, and began to teach the people.
+
+When the high priest and his associates arrived, they called together the Sanhedrin—the full assembly of the elders of Israel—and sent to the jail for the apostles. 22 But on arriving at the jail, the officers did not find them there. So they went back and reported, 23 “We found the jail securely locked, with the guards standing at the doors; but when we opened them, we found no one inside.” 24 On hearing this report, the captain of the temple guard and the chief priests were at a loss, wondering what this might lead to.
+
+25 Then someone came and said, “Look! The men you put in jail are standing in the temple courts teaching the people.” 26 At that, the captain went with his officers and brought the apostles. They did not use force, because they feared that the people would stone them.
+
+27 The apostles were brought in and made to appear before the Sanhedrin to be questioned by the high priest. 28 “We gave you strict orders not to teach in this name,” he said. “Yet you have filled Jerusalem with your teaching and are determined to make us guilty of this man’s blood.”
+
+29 Peter and the other apostles replied: “We must obey God rather than human beings! 30 The God of our ancestors raised Jesus from the dead—whom you killed by hanging him on a cross. 31 God exalted him to his own right hand as Prince and Savior that he might bring Israel to repentance and forgive their sins. 32 We are witnesses of these things, and so is the Holy Spirit, whom God has given to those who obey him.”
+
+33 When they heard this, they were furious and wanted to put them to death. 34 But a Pharisee named Gamaliel, a teacher of the law, who was honored by all the people, stood up in the Sanhedrin and ordered that the men be put outside for a little while. 35 Then he addressed the Sanhedrin: “Men of Israel, consider carefully what you intend to do to these men. 36 Some time ago Theudas appeared, claiming to be somebody, and about four hundred men rallied to him. He was killed, all his followers were dispersed, and it all came to nothing. 37 After him, Judas the Galilean appeared in the days of the census and led a band of people in revolt. He too was killed, and all his followers were scattered. 38 Therefore, in the present case I advise you: Leave these men alone! Let them go! For if their purpose or activity is of human origin, it will fail. 39 But if it is from God, you will not be able to stop these men; you will only find yourselves fighting against God.”
+
+40 His speech persuaded them. They called the apostles in and had them flogged. Then they ordered them not to speak in the name of Jesus, and let them go.
+
+41 The apostles left the Sanhedrin, rejoicing because they had been counted worthy of suffering disgrace for the Name. 42 Day after day, in the temple courts and from house to house, they never stopped teaching and proclaiming the good news that Jesus is the Messiah.
             </p>
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://www.biblegateway.com/passage/?search=Acts%206&version=NIV"
             className={styles.card}
           >
-            <h2>Deploy &rarr;</h2>
+            <h2>  The Choosing of the Seven &darr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+          
+6 In those days when the number of disciples was increasing, the Hellenistic Jews[a] among them complained against the Hebraic Jews because their widows were being overlooked in the daily distribution of food. 2 So the Twelve gathered all the disciples together and said, “It would not be right for us to neglect the ministry of the word of God in order to wait on tables. 3 Brothers and sisters, choose seven men from among you who are known to be full of the Spirit and wisdom. We will turn this responsibility over to them 4 and will give our attention to prayer and the ministry of the word.”
+
+5 This proposal pleased the whole group. They chose Stephen, a man full of faith and of the Holy Spirit; also Philip, Procorus, Nicanor, Timon, Parmenas, and Nicolas from Antioch, a convert to Judaism. 6 They presented these men to the apostles, who prayed and laid their hands on them.
+
+7 So the word of God spread. The number of disciples in Jerusalem increased rapidly, and a large number of priests became obedient to the faith.
+
+Stephen Seized
+8 Now Stephen, a man full of God’s grace and power, performed great wonders and signs among the people. 9 Opposition arose, however, from members of the Synagogue of the Freedmen (as it was called)—Jews of Cyrene and Alexandria as well as the provinces of Cilicia and Asia—who began to argue with Stephen. 10 But they could not stand up against the wisdom the Spirit gave him as he spoke.
+
+11 Then they secretly persuaded some men to say, “We have heard Stephen speak blasphemous words against Moses and against God.”
+
+12 So they stirred up the people and the elders and the teachers of the law. They seized Stephen and brought him before the Sanhedrin. 13 They produced false witnesses, who testified, “This fellow never stops speaking against this holy place and against the law. 14 For we have heard him say that this Jesus of Nazareth will destroy this place and change the customs Moses handed down to us.”
+
+15 All who were sitting in the Sanhedrin looked intently at Stephen, and they saw that his face was like the face of an angel.
             </p>
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://www.biblegateway.com/passage/?search=Acts%207&version=NIV"
             className={styles.card}
           >
-            <h2>Deploy &rarr;</h2>
+            <h2>Stephen’s Speech to the Sanhedrin &darr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+         
+7 Then the high priest asked Stephen, “Are these charges true?”
+
+2 To this he replied: “Brothers and fathers, listen to me! The God of glory appeared to our father Abraham while he was still in Mesopotamia, before he lived in Harran. 3 ‘Leave your country and your people,’ God said, ‘and go to the land I will show you.’[a]
+
+4 “So he left the land of the Chaldeans and settled in Harran. After the death of his father, God sent him to this land where you are now living. 5 He gave him no inheritance here, not even enough ground to set his foot on. But God promised him that he and his descendants after him would possess the land, even though at that time Abraham had no child. 6 God spoke to him in this way: ‘For four hundred years your descendants will be strangers in a country not their own, and they will be enslaved and mistreated. 7 But I will punish the nation they serve as slaves,’ God said, ‘and afterward they will come out of that country and worship me in this place.’[b] 8 Then he gave Abraham the covenant of circumcision. And Abraham became the father of Isaac and circumcised him eight days after his birth. Later Isaac became the father of Jacob, and Jacob became the father of the twelve patriarchs.
+
+9 “Because the patriarchs were jealous of Joseph, they sold him as a slave into Egypt. But God was with him 10 and rescued him from all his troubles. He gave Joseph wisdom and enabled him to gain the goodwill of Pharaoh king of Egypt. So Pharaoh made him ruler over Egypt and all his palace.
+
+11 “Then a famine struck all Egypt and Canaan, bringing great suffering, and our ancestors could not find food. 12 When Jacob heard that there was grain in Egypt, he sent our forefathers on their first visit. 13 On their second visit, Joseph told his brothers who he was, and Pharaoh learned about Joseph’s family. 14 After this, Joseph sent for his father Jacob and his whole family, seventy-five in all. 15 Then Jacob went down to Egypt, where he and our ancestors died. 16 Their bodies were brought back to Shechem and placed in the tomb that Abraham had bought from the sons of Hamor at Shechem for a certain sum of money.
+
+17 “As the time drew near for God to fulfill his promise to Abraham, the number of our people in Egypt had greatly increased. 18 Then ‘a new king, to whom Joseph meant nothing, came to power in Egypt.’[c] 19 He dealt treacherously with our people and oppressed our ancestors by forcing them to throw out their newborn babies so that they would die.
+
+20 “At that time Moses was born, and he was no ordinary child.[d] For three months he was cared for by his family. 21 When he was placed outside, Pharaoh’s daughter took him and brought him up as her own son. 22 Moses was educated in all the wisdom of the Egyptians and was powerful in speech and action.
+
+23 “When Moses was forty years old, he decided to visit his own people, the Israelites. 24 He saw one of them being mistreated by an Egyptian, so he went to his defense and avenged him by killing the Egyptian. 25 Moses thought that his own people would realize that God was using him to rescue them, but they did not. 26 The next day Moses came upon two Israelites who were fighting. He tried to reconcile them by saying, ‘Men, you are brothers; why do you want to hurt each other?’
+
+27 “But the man who was mistreating the other pushed Moses aside and said, ‘Who made you ruler and judge over us? 28 Are you thinking of killing me as you killed the Egyptian yesterday?’[e] 29 When Moses heard this, he fled to Midian, where he settled as a foreigner and had two sons.
+
+30 “After forty years had passed, an angel appeared to Moses in the flames of a burning bush in the desert near Mount Sinai. 31 When he saw this, he was amazed at the sight. As he went over to get a closer look, he heard the Lord say: 32 ‘I am the God of your fathers, the God of Abraham, Isaac and Jacob.’[f] Moses trembled with fear and did not dare to look.
+
+33 “Then the Lord said to him, ‘Take off your sandals, for the place where you are standing is holy ground. 34 I have indeed seen the oppression of my people in Egypt. I have heard their groaning and have come down to set them free. Now come, I will send you back to Egypt.’[g]
+
+35 “This is the same Moses they had rejected with the words, ‘Who made you ruler and judge?’ He was sent to be their ruler and deliverer by God himself, through the angel who appeared to him in the bush. 36 He led them out of Egypt and performed wonders and signs in Egypt, at the Red Sea and for forty years in the wilderness.
+
+37 “This is the Moses who told the Israelites, ‘God will raise up for you a prophet like me from your own people.’[h] 38 He was in the assembly in the wilderness, with the angel who spoke to him on Mount Sinai, and with our ancestors; and he received living words to pass on to us.
+
+39 “But our ancestors refused to obey him. Instead, they rejected him and in their hearts turned back to Egypt. 40 They told Aaron, ‘Make us gods who will go before us. As for this fellow Moses who led us out of Egypt—we don’t know what has happened to him!’[i] 41 That was the time they made an idol in the form of a calf. They brought sacrifices to it and reveled in what their own hands had made. 42 But God turned away from them and gave them over to the worship of the sun, moon and stars. This agrees with what is written in the book of the prophets:
+
+“‘Did you bring me sacrifices and offerings
+    forty years in the wilderness, people of Israel?
+43 You have taken up the tabernacle of Molek
+    and the star of your god Rephan,
+    the idols you made to worship.
+Therefore I will send you into exile’[j] beyond Babylon.
+
+44 “Our ancestors had the tabernacle of the covenant law with them in the wilderness. It had been made as God directed Moses, according to the pattern he had seen. 45 After receiving the tabernacle, our ancestors under Joshua brought it with them when they took the land from the nations God drove out before them. It remained in the land until the time of David, 46 who enjoyed God’s favor and asked that he might provide a dwelling place for the God of Jacob.[k] 47 But it was Solomon who built a house for him.
+
+48 “However, the Most High does not live in houses made by human hands. As the prophet says:
+
+49 “‘Heaven is my throne,
+    and the earth is my footstool.
+What kind of house will you build for me?
+says the Lord.
+    Or where will my resting place be?
+50 Has not my hand made all these things?’[l]
+
+51 “You stiff-necked people! Your hearts and ears are still uncircumcised. You are just like your ancestors: You always resist the Holy Spirit! 52 Was there ever a prophet your ancestors did not persecute? They even killed those who predicted the coming of the Righteous One. And now you have betrayed and murdered him— 53 you who have received the law that was given through angels but have not obeyed it.”
+
+The Stoning of Stephen
+54 When the members of the Sanhedrin heard this, they were furious and gnashed their teeth at him. 55 But Stephen, full of the Holy Spirit, looked up to heaven and saw the glory of God, and Jesus standing at the right hand of God. 56 “Look,” he said, “I see heaven open and the Son of Man standing at the right hand of God.”
+
+57 At this they covered their ears and, yelling at the top of their voices, they all rushed at him, 58 dragged him out of the city and began to stone him. Meanwhile, the witnesses laid their coats at the feet of a young man named Saul.
+
+59 While they were stoning him, Stephen prayed, “Lord Jesus, receive my spirit.” 60 Then he fell on his knees and cried out, “Lord, do not hold this sin against them.” When he had said this, he fell asleep.
             </p>
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://www.biblegateway.com/passage/?search=Acts%208&version=NIV"
             className={styles.card}
           >
-            <h2>Deploy &rarr;</h2>
+            <h2>8 And Saul approved of their killing him. &darr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+            The Church Persecuted and Scattered
+On that day a great persecution broke out against the church in Jerusalem, and all except the apostles were scattered throughout Judea and Samaria. 2 Godly men buried Stephen and mourned deeply for him. 3 But Saul began to destroy the church. Going from house to house, he dragged off both men and women and put them in prison.
+
+Philip in Samaria
+4 Those who had been scattered preached the word wherever they went. 5 Philip went down to a city in Samaria and proclaimed the Messiah there. 6 When the crowds heard Philip and saw the signs he performed, they all paid close attention to what he said. 7 For with shrieks, impure spirits came out of many, and many who were paralyzed or lame were healed. 8 So there was great joy in that city.
+
+Simon the Sorcerer
+9 Now for some time a man named Simon had practiced sorcery in the city and amazed all the people of Samaria. He boasted that he was someone great, 10 and all the people, both high and low, gave him their attention and exclaimed, “This man is rightly called the Great Power of God.” 11 They followed him because he had amazed them for a long time with his sorcery. 12 But when they believed Philip as he proclaimed the good news of the kingdom of God and the name of Jesus Christ, they were baptized, both men and women. 13 Simon himself believed and was baptized. And he followed Philip everywhere, astonished by the great signs and miracles he saw.
+
+14 When the apostles in Jerusalem heard that Samaria had accepted the word of God, they sent Peter and John to Samaria. 15 When they arrived, they prayed for the new believers there that they might receive the Holy Spirit, 16 because the Holy Spirit had not yet come on any of them; they had simply been baptized in the name of the Lord Jesus. 17 Then Peter and John placed their hands on them, and they received the Holy Spirit.
+
+18 When Simon saw that the Spirit was given at the laying on of the apostles’ hands, he offered them money 19 and said, “Give me also this ability so that everyone on whom I lay my hands may receive the Holy Spirit.”
+
+20 Peter answered: “May your money perish with you, because you thought you could buy the gift of God with money! 21 You have no part or share in this ministry, because your heart is not right before God. 22 Repent of this wickedness and pray to the Lord in the hope that he may forgive you for having such a thought in your heart. 23 For I see that you are full of bitterness and captive to sin.”
+
+24 Then Simon answered, “Pray to the Lord for me so that nothing you have said may happen to me.”
+
+25 After they had further proclaimed the word of the Lord and testified about Jesus, Peter and John returned to Jerusalem, preaching the gospel in many Samaritan villages.
+
+Philip and the Ethiopian
+26 Now an angel of the Lord said to Philip, “Go south to the road—the desert road—that goes down from Jerusalem to Gaza.” 27 So he started out, and on his way he met an Ethiopian[a] eunuch, an important official in charge of all the treasury of the Kandake (which means “queen of the Ethiopians”). This man had gone to Jerusalem to worship, 28 and on his way home was sitting in his chariot reading the Book of Isaiah the prophet. 29 The Spirit told Philip, “Go to that chariot and stay near it.”
+
+30 Then Philip ran up to the chariot and heard the man reading Isaiah the prophet. “Do you understand what you are reading?” Philip asked.
+
+31 “How can I,” he said, “unless someone explains it to me?” So he invited Philip to come up and sit with him.
+
+32 This is the passage of Scripture the eunuch was reading:
+
+“He was led like a sheep to the slaughter,
+    and as a lamb before its shearer is silent,
+    so he did not open his mouth.
+33 In his humiliation he was deprived of justice.
+    Who can speak of his descendants?
+    For his life was taken from the earth.”[b]
+
+34 The eunuch asked Philip, “Tell me, please, who is the prophet talking about, himself or someone else?” 35 Then Philip began with that very passage of Scripture and told him the good news about Jesus.
+
+36 As they traveled along the road, they came to some water and the eunuch said, “Look, here is water. What can stand in the way of my being baptized?” [37] [c] 38 And he gave orders to stop the chariot. Then both Philip and the eunuch went down into the water and Philip baptized him. 39 When they came up out of the water, the Spirit of the Lord suddenly took Philip away, and the eunuch did not see him again, but went on his way rejoicing. 40 Philip, however, appeared at Azotus and traveled about, preaching the gospel in all the towns until he reached Caesarea.
+
+Footnotes
+Acts 8:27 That is, from the southern Nile region
+Acts 8:33 Isaiah 53:7,8 (see Septuagint)
+Acts 8:37 Some manuscripts include here Philip said, “If you believe with all your heart, you may.” The eunuch answered, “I believe that Jesus Christ is the Son of God.”
             </p>
           </a>
 
