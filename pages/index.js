@@ -13,31 +13,219 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          The <a href="https://nextjs.org">Acts</a> of the Apostles
+          The <a href="https://en.wikipedia.org/wiki/Acts_of_the_Apostles">Acts</a> of the Apostles
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          Back to the {' '}
+          <a href="https://the-holy-bible.vercel.app/"><code className={styles.code}>Gospels</code></a>
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+          <a href="" className={styles.card}>
+            <h2>Jesus Taken Up Into Heaven &darr;</h2>
+            <p>
+1 In my former book, Theophilus, I wrote about all that Jesus began to do and to teach 2 until the day he was taken up to heaven, after giving instructions through the Holy Spirit to the apostles he had chosen. 3 After his suffering, he presented himself to them and gave many convincing proofs that he was alive. He appeared to them over a period of forty days and spoke about the kingdom of God. 4 On one occasion, while he was eating with them, he gave them this command: “Do not leave Jerusalem, but wait for the gift my Father promised, which you have heard me speak about. 5 For John baptized with[a] water, but in a few days you will be baptized with[b] the Holy Spirit.”
+
+6 Then they gathered around him and asked him, “Lord, are you at this time going to restore the kingdom to Israel?”
+
+7 He said to them: “It is not for you to know the times or dates the Father has set by his own authority. 8 But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”
+
+9 After he said this, he was taken up before their very eyes, and a cloud hid him from their sight.
+
+10 They were looking intently up into the sky as he was going, when suddenly two men dressed in white stood beside them. 11 “Men of Galilee,” they said, “why do you stand here looking into the sky? This same Jesus, who has been taken from you into heaven, will come back in the same way you have seen him go into heaven.”
+
+Matthias Chosen to Replace Judas
+12 Then the apostles returned to Jerusalem from the hill called the Mount of Olives, a Sabbath day’s walk[c] from the city. 13 When they arrived, they went upstairs to the room where they were staying. Those present were Peter, John, James and Andrew; Philip and Thomas, Bartholomew and Matthew; James son of Alphaeus and Simon the Zealot, and Judas son of James. 14 They all joined together constantly in prayer, along with the women and Mary the mother of Jesus, and with his brothers.
+
+15 In those days Peter stood up among the believers (a group numbering about a hundred and twenty) 16 and said, “Brothers and sisters,[d] the Scripture had to be fulfilled in which the Holy Spirit spoke long ago through David concerning Judas, who served as guide for those who arrested Jesus. 17 He was one of our number and shared in our ministry.”
+
+18 (With the payment he received for his wickedness, Judas bought a field; there he fell headlong, his body burst open and all his intestines spilled out. 19 Everyone in Jerusalem heard about this, so they called that field in their language Akeldama, that is, Field of Blood.)
+
+20 “For,” said Peter, “it is written in the Book of Psalms:
+
+“‘May his place be deserted;
+    let there be no one to dwell in it,’[e]
+
+and,
+
+“‘May another take his place of leadership.’[f]
+
+21 Therefore it is necessary to choose one of the men who have been with us the whole time the Lord Jesus was living among us, 22 beginning from John’s baptism to the time when Jesus was taken up from us. For one of these must become a witness with us of his resurrection.”
+
+23 So they nominated two men: Joseph called Barsabbas (also known as Justus) and Matthias. 24 Then they prayed, “Lord, you know everyone’s heart. Show us which of these two you have chosen 25 to take over this apostolic ministry, which Judas left to go where he belongs.” 26 Then they cast lots, and the lot fell to Matthias; so he was added to the eleven apostles.
+
+</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <h2>The Holy Spirit Comes at Pentecost &darr;</h2>
+            <p>
+2 When the day of Pentecost came, they were all together in one place. 2 Suddenly a sound like the blowing of a violent wind came from heaven and filled the whole house where they were sitting. 3 They saw what seemed to be tongues of fire that separated and came to rest on each of them. 4 All of them were filled with the Holy Spirit and began to speak in other tongues[a] as the Spirit enabled them.
+
+5 Now there were staying in Jerusalem God-fearing Jews from every nation under heaven. 6 When they heard this sound, a crowd came together in bewilderment, because each one heard their own language being spoken. 7 Utterly amazed, they asked: “Aren’t all these who are speaking Galileans? 8 Then how is it that each of us hears them in our native language? 9 Parthians, Medes and Elamites; residents of Mesopotamia, Judea and Cappadocia, Pontus and Asia,[b] 10 Phrygia and Pamphylia, Egypt and the parts of Libya near Cyrene; visitors from Rome 11 (both Jews and converts to Judaism); Cretans and Arabs—we hear them declaring the wonders of God in our own tongues!” 12 Amazed and perplexed, they asked one another, “What does this mean?”
+
+13 Some, however, made fun of them and said, “They have had too much wine.”
+
+Peter Addresses the Crowd
+14 Then Peter stood up with the Eleven, raised his voice and addressed the crowd: “Fellow Jews and all of you who live in Jerusalem, let me explain this to you; listen carefully to what I say. 15 These people are not drunk, as you suppose. It’s only nine in the morning! 16 No, this is what was spoken by the prophet Joel:
+
+17 “‘In the last days, God says,
+    I will pour out my Spirit on all people.
+Your sons and daughters will prophesy,
+    your young men will see visions,
+    your old men will dream dreams.
+18 Even on my servants, both men and women,
+    I will pour out my Spirit in those days,
+    and they will prophesy.
+19 I will show wonders in the heavens above
+    and signs on the earth below,
+    blood and fire and billows of smoke.
+20 The sun will be turned to darkness
+    and the moon to blood
+    before the coming of the great and glorious day of the Lord.
+21 And everyone who calls
+    on the name of the Lord will be saved.’[c]
+
+22 “Fellow Israelites, listen to this: Jesus of Nazareth was a man accredited by God to you by miracles, wonders and signs, which God did among you through him, as you yourselves know. 23 This man was handed over to you by God’s deliberate plan and foreknowledge; and you, with the help of wicked men,[d] put him to death by nailing him to the cross. 24 But God raised him from the dead, freeing him from the agony of death, because it was impossible for death to keep its hold on him. 25 David said about him:
+
+“‘I saw the Lord always before me.
+    Because he is at my right hand,
+    I will not be shaken.
+26 Therefore my heart is glad and my tongue rejoices;
+    my body also will rest in hope,
+27 because you will not abandon me to the realm of the dead,
+    you will not let your holy one see decay.
+28 You have made known to me the paths of life;
+    you will fill me with joy in your presence.’[e]
+
+29 “Fellow Israelites, I can tell you confidently that the patriarch David died and was buried, and his tomb is here to this day. 30 But he was a prophet and knew that God had promised him on oath that he would place one of his descendants on his throne. 31 Seeing what was to come, he spoke of the resurrection of the Messiah, that he was not abandoned to the realm of the dead, nor did his body see decay. 32 God has raised this Jesus to life, and we are all witnesses of it. 33 Exalted to the right hand of God, he has received from the Father the promised Holy Spirit and has poured out what you now see and hear. 34 For David did not ascend to heaven, and yet he said,
+
+“‘The Lord said to my Lord:
+    “Sit at my right hand
+35 until I make your enemies
+    a footstool for your feet.”’[f]
+
+36 “Therefore let all Israel be assured of this: God has made this Jesus, whom you crucified, both Lord and Messiah.”
+
+37 When the people heard this, they were cut to the heart and said to Peter and the other apostles, “Brothers, what shall we do?”
+
+38 Peter replied, “Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit. 39 The promise is for you and your children and for all who are far off—for all whom the Lord our God will call.”
+
+40 With many other words he warned them; and he pleaded with them, “Save yourselves from this corrupt generation.” 41 Those who accepted his message were baptized, and about three thousand were added to their number that day.
+
+The Fellowship of the Believers
+42 They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer. 43 Everyone was filled with awe at the many wonders and signs performed by the apostles. 44 All the believers were together and had everything in common. 45 They sold property and possessions to give to anyone who had need. 46 Every day they continued to meet together in the temple courts. They broke bread in their homes and ate together with glad and sincere hearts, 47 praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved.
+
+</p>
           </a>
 
           <a
             href="https://github.com/vercel/next.js/tree/canary/examples"
             className={styles.card}
           >
-            <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <h2>Peter Heals a Lame Beggar &darr;</h2>
+            <p>
+3 One day Peter and John were going up to the temple at the time of prayer—at three in the afternoon. 2 Now a man who was lame from birth was being carried to the temple gate called Beautiful, where he was put every day to beg from those going into the temple courts. 3 When he saw Peter and John about to enter, he asked them for money. 4 Peter looked straight at him, as did John. Then Peter said, “Look at us!” 5 So the man gave them his attention, expecting to get something from them.
+
+6 Then Peter said, “Silver or gold I do not have, but what I do have I give you. In the name of Jesus Christ of Nazareth, walk.” 7 Taking him by the right hand, he helped him up, and instantly the man’s feet and ankles became strong. 8 He jumped to his feet and began to walk. Then he went with them into the temple courts, walking and jumping, and praising God. 9 When all the people saw him walking and praising God, 10 they recognized him as the same man who used to sit begging at the temple gate called Beautiful, and they were filled with wonder and amazement at what had happened to him.
+
+Peter Speaks to the Onlookers
+11 While the man held on to Peter and John, all the people were astonished and came running to them in the place called Solomon’s Colonnade. 12 When Peter saw this, he said to them: “Fellow Israelites, why does this surprise you? Why do you stare at us as if by our own power or godliness we had made this man walk? 13 The God of Abraham, Isaac and Jacob, the God of our fathers, has glorified his servant Jesus. You handed him over to be killed, and you disowned him before Pilate, though he had decided to let him go. 14 You disowned the Holy and Righteous One and asked that a murderer be released to you. 15 You killed the author of life, but God raised him from the dead. We are witnesses of this. 16 By faith in the name of Jesus, this man whom you see and know was made strong. It is Jesus’ name and the faith that comes through him that has completely healed him, as you can all see.
+
+17 “Now, fellow Israelites, I know that you acted in ignorance, as did your leaders. 18 But this is how God fulfilled what he had foretold through all the prophets, saying that his Messiah would suffer. 19 Repent, then, and turn to God, so that your sins may be wiped out, that times of refreshing may come from the Lord, 20 and that he may send the Messiah, who has been appointed for you—even Jesus. 21 Heaven must receive him until the time comes for God to restore everything, as he promised long ago through his holy prophets. 22 For Moses said, ‘The Lord your God will raise up for you a prophet like me from among your own people; you must listen to everything he tells you. 23 Anyone who does not listen to him will be completely cut off from their people.’[a]
+
+24 “Indeed, beginning with Samuel, all the prophets who have spoken have foretold these days. 25 And you are heirs of the prophets and of the covenant God made with your fathers. He said to Abraham, ‘Through your offspring all peoples on earth will be blessed.’[b] 26 When God raised up his servant, he sent him first to you to bless you by turning each of you from your wicked ways.”</p>
+          </a>
+
+          <a
+            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            className={styles.card}
+          >
+            <h2>Deploy &rarr;</h2>
+            <p>
+              Instantly deploy your Next.js site to a public URL with Vercel.
+            </p>
+          </a>
+
+          <a
+            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            className={styles.card}
+          >
+            <h2>Deploy &rarr;</h2>
+            <p>
+              Instantly deploy your Next.js site to a public URL with Vercel.
+            </p>
+          </a>
+
+          <a
+            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            className={styles.card}
+          >
+            <h2>Deploy &rarr;</h2>
+            <p>
+              Instantly deploy your Next.js site to a public URL with Vercel.
+            </p>
+          </a>
+
+          <a
+            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            className={styles.card}
+          >
+            <h2>Deploy &rarr;</h2>
+            <p>
+              Instantly deploy your Next.js site to a public URL with Vercel.
+            </p>
+          </a>
+
+          <a
+            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            className={styles.card}
+          >
+            <h2>Deploy &rarr;</h2>
+            <p>
+              Instantly deploy your Next.js site to a public URL with Vercel.
+            </p>
+          </a>
+
+          <a
+            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            className={styles.card}
+          >
+            <h2>Deploy &rarr;</h2>
+            <p>
+              Instantly deploy your Next.js site to a public URL with Vercel.
+            </p>
+          </a>
+
+          <a
+            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            className={styles.card}
+          >
+            <h2>Deploy &rarr;</h2>
+            <p>
+              Instantly deploy your Next.js site to a public URL with Vercel.
+            </p>
+          </a>
+
+          <a
+            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            className={styles.card}
+          >
+            <h2>Deploy &rarr;</h2>
+            <p>
+              Instantly deploy your Next.js site to a public URL with Vercel.
+            </p>
+          </a>
+
+          <a
+            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            className={styles.card}
+          >
+            <h2>Deploy &rarr;</h2>
+            <p>
+              Instantly deploy your Next.js site to a public URL with Vercel.
+            </p>
           </a>
 
           <a
