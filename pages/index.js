@@ -363,10 +363,7 @@ Philip and the Ethiopian
 
 36 As they traveled along the road, they came to some water and the eunuch said, “Look, here is water. What can stand in the way of my being baptized?” [37] [c] 38 And he gave orders to stop the chariot. Then both Philip and the eunuch went down into the water and Philip baptized him. 39 When they came up out of the water, the Spirit of the Lord suddenly took Philip away, and the eunuch did not see him again, but went on his way rejoicing. 40 Philip, however, appeared at Azotus and traveled about, preaching the gospel in all the towns until he reached Caesarea.
 
-Footnotes
-Acts 8:27 That is, from the southern Nile region
-Acts 8:33 Isaiah 53:7,8 (see Septuagint)
-Acts 8:37 Some manuscripts include here Philip said, “If you believe with all your heart, you may.” The eunuch answered, “I believe that Jesus Christ is the Son of God.”
+
             </p>
           </a>
 
@@ -374,9 +371,46 @@ Acts 8:37 Some manuscripts include here Philip said, “If you believe with all 
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h2>Deploy &rarr;</h2>
+            <h2>Saul’s Conversion &darr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+           
+9 Meanwhile, Saul was still breathing out murderous threats against the Lord’s disciples. He went to the high priest 2 and asked him for letters to the synagogues in Damascus, so that if he found any there who belonged to the Way, whether men or women, he might take them as prisoners to Jerusalem. 3 As he neared Damascus on his journey, suddenly a light from heaven flashed around him. 4 He fell to the ground and heard a voice say to him, “Saul, Saul, why do you persecute me?”
+
+5 “Who are you, Lord?” Saul asked.
+
+“I am Jesus, whom you are persecuting,” he replied. 6 “Now get up and go into the city, and you will be told what you must do.”
+
+7 The men traveling with Saul stood there speechless; they heard the sound but did not see anyone. 8 Saul got up from the ground, but when he opened his eyes he could see nothing. So they led him by the hand into Damascus. 9 For three days he was blind, and did not eat or drink anything.
+
+10 In Damascus there was a disciple named Ananias. The Lord called to him in a vision, “Ananias!”
+
+“Yes, Lord,” he answered.
+
+11 The Lord told him, “Go to the house of Judas on Straight Street and ask for a man from Tarsus named Saul, for he is praying. 12 In a vision he has seen a man named Ananias come and place his hands on him to restore his sight.”
+
+13 “Lord,” Ananias answered, “I have heard many reports about this man and all the harm he has done to your holy people in Jerusalem. 14 And he has come here with authority from the chief priests to arrest all who call on your name.”
+
+15 But the Lord said to Ananias, “Go! This man is my chosen instrument to proclaim my name to the Gentiles and their kings and to the people of Israel. 16 I will show him how much he must suffer for my name.”
+
+17 Then Ananias went to the house and entered it. Placing his hands on Saul, he said, “Brother Saul, the Lord—Jesus, who appeared to you on the road as you were coming here—has sent me so that you may see again and be filled with the Holy Spirit.” 18 Immediately, something like scales fell from Saul’s eyes, and he could see again. He got up and was baptized, 19 and after taking some food, he regained his strength.
+
+Saul in Damascus and Jerusalem
+Saul spent several days with the disciples in Damascus. 20 At once he began to preach in the synagogues that Jesus is the Son of God. 21 All those who heard him were astonished and asked, “Isn’t he the man who raised havoc in Jerusalem among those who call on this name? And hasn’t he come here to take them as prisoners to the chief priests?” 22 Yet Saul grew more and more powerful and baffled the Jews living in Damascus by proving that Jesus is the Messiah.
+
+23 After many days had gone by, there was a conspiracy among the Jews to kill him, 24 but Saul learned of their plan. Day and night they kept close watch on the city gates in order to kill him. 25 But his followers took him by night and lowered him in a basket through an opening in the wall.
+
+26 When he came to Jerusalem, he tried to join the disciples, but they were all afraid of him, not believing that he really was a disciple. 27 But Barnabas took him and brought him to the apostles. He told them how Saul on his journey had seen the Lord and that the Lord had spoken to him, and how in Damascus he had preached fearlessly in the name of Jesus. 28 So Saul stayed with them and moved about freely in Jerusalem, speaking boldly in the name of the Lord. 29 He talked and debated with the Hellenistic Jews,[a] but they tried to kill him. 30 When the believers learned of this, they took him down to Caesarea and sent him off to Tarsus.
+
+31 Then the church throughout Judea, Galilee and Samaria enjoyed a time of peace and was strengthened. Living in the fear of the Lord and encouraged by the Holy Spirit, it increased in numbers.
+
+Aeneas and Dorcas
+32 As Peter traveled about the country, he went to visit the Lord’s people who lived in Lydda. 33 There he found a man named Aeneas, who was paralyzed and had been bedridden for eight years. 34 “Aeneas,” Peter said to him, “Jesus Christ heals you. Get up and roll up your mat.” Immediately Aeneas got up. 35 All those who lived in Lydda and Sharon saw him and turned to the Lord.
+
+36 In Joppa there was a disciple named Tabitha (in Greek her name is Dorcas); she was always doing good and helping the poor. 37 About that time she became sick and died, and her body was washed and placed in an upstairs room. 38 Lydda was near Joppa; so when the disciples heard that Peter was in Lydda, they sent two men to him and urged him, “Please come at once!”
+
+39 Peter went with them, and when he arrived he was taken upstairs to the room. All the widows stood around him, crying and showing him the robes and other clothing that Dorcas had made while she was still with them.
+
+40 Peter sent them all out of the room; then he got down on his knees and prayed. Turning toward the dead woman, he said, “Tabitha, get up.” She opened her eyes, and seeing Peter she sat up. 41 He took her by the hand and helped her to her feet. Then he called for the believers, especially the widows, and presented her to them alive. 42 This became known all over Joppa, and many people believed in the Lord. 43 Peter stayed in Joppa for some time with a tanner named Simon.
             </p>
           </a>
 
@@ -384,9 +418,48 @@ Acts 8:37 Some manuscripts include here Philip said, “If you believe with all 
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h2>Deploy &rarr;</h2>
+            <h2>Cornelius Calls for Peter &darr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+            
+10 At Caesarea there was a man named Cornelius, a centurion in what was known as the Italian Regiment. 2 He and all his family were devout and God-fearing; he gave generously to those in need and prayed to God regularly. 3 One day at about three in the afternoon he had a vision. He distinctly saw an angel of God, who came to him and said, “Cornelius!”
+
+4 Cornelius stared at him in fear. “What is it, Lord?” he asked.
+
+The angel answered, “Your prayers and gifts to the poor have come up as a memorial offering before God. 5 Now send men to Joppa to bring back a man named Simon who is called Peter. 6 He is staying with Simon the tanner, whose house is by the sea.”
+
+7 When the angel who spoke to him had gone, Cornelius called two of his servants and a devout soldier who was one of his attendants. 8 He told them everything that had happened and sent them to Joppa.
+
+Peter’s Vision
+9 About noon the following day as they were on their journey and approaching the city, Peter went up on the roof to pray. 10 He became hungry and wanted something to eat, and while the meal was being prepared, he fell into a trance. 11 He saw heaven opened and something like a large sheet being let down to earth by its four corners. 12 It contained all kinds of four-footed animals, as well as reptiles and birds. 13 Then a voice told him, “Get up, Peter. Kill and eat.”
+
+14 “Surely not, Lord!” Peter replied. “I have never eaten anything impure or unclean.”
+
+15 The voice spoke to him a second time, “Do not call anything impure that God has made clean.”
+
+16 This happened three times, and immediately the sheet was taken back to heaven.
+
+17 While Peter was wondering about the meaning of the vision, the men sent by Cornelius found out where Simon’s house was and stopped at the gate. 18 They called out, asking if Simon who was known as Peter was staying there.
+
+19 While Peter was still thinking about the vision, the Spirit said to him, “Simon, three[a] men are looking for you. 20 So get up and go downstairs. Do not hesitate to go with them, for I have sent them.”
+
+21 Peter went down and said to the men, “I’m the one you’re looking for. Why have you come?”
+
+22 The men replied, “We have come from Cornelius the centurion. He is a righteous and God-fearing man, who is respected by all the Jewish people. A holy angel told him to ask you to come to his house so that he could hear what you have to say.” 23 Then Peter invited the men into the house to be his guests.
+
+Peter at Cornelius’s House
+The next day Peter started out with them, and some of the believers from Joppa went along. 24 The following day he arrived in Caesarea. Cornelius was expecting them and had called together his relatives and close friends. 25 As Peter entered the house, Cornelius met him and fell at his feet in reverence. 26 But Peter made him get up. “Stand up,” he said, “I am only a man myself.”
+
+27 While talking with him, Peter went inside and found a large gathering of people. 28 He said to them: “You are well aware that it is against our law for a Jew to associate with or visit a Gentile. But God has shown me that I should not call anyone impure or unclean. 29 So when I was sent for, I came without raising any objection. May I ask why you sent for me?”
+
+30 Cornelius answered: “Three days ago I was in my house praying at this hour, at three in the afternoon. Suddenly a man in shining clothes stood before me 31 and said, ‘Cornelius, God has heard your prayer and remembered your gifts to the poor. 32 Send to Joppa for Simon who is called Peter. He is a guest in the home of Simon the tanner, who lives by the sea.’ 33 So I sent for you immediately, and it was good of you to come. Now we are all here in the presence of God to listen to everything the Lord has commanded you to tell us.”
+
+34 Then Peter began to speak: “I now realize how true it is that God does not show favoritism 35 but accepts from every nation the one who fears him and does what is right. 36 You know the message God sent to the people of Israel, announcing the good news of peace through Jesus Christ, who is Lord of all. 37 You know what has happened throughout the province of Judea, beginning in Galilee after the baptism that John preached— 38 how God anointed Jesus of Nazareth with the Holy Spirit and power, and how he went around doing good and healing all who were under the power of the devil, because God was with him.
+
+39 “We are witnesses of everything he did in the country of the Jews and in Jerusalem. They killed him by hanging him on a cross, 40 but God raised him from the dead on the third day and caused him to be seen. 41 He was not seen by all the people, but by witnesses whom God had already chosen—by us who ate and drank with him after he rose from the dead. 42 He commanded us to preach to the people and to testify that he is the one whom God appointed as judge of the living and the dead. 43 All the prophets testify about him that everyone who believes in him receives forgiveness of sins through his name.”
+
+44 While Peter was still speaking these words, the Holy Spirit came on all who heard the message. 45 The circumcised believers who had come with Peter were astonished that the gift of the Holy Spirit had been poured out even on Gentiles. 46 For they heard them speaking in tongues[b] and praising God.
+
+Then Peter said, 47 “Surely no one can stand in the way of their being baptized with water. They have received the Holy Spirit just as we have.” 48 So he ordered that they be baptized in the name of Jesus Christ. Then they asked Peter to stay with them for a few days.
             </p>
           </a>
 
@@ -394,9 +467,31 @@ Acts 8:37 Some manuscripts include here Philip said, “If you believe with all 
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h2>Deploy &rarr;</h2>
+            <h2>Peter Explains His Actions &darr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+            
+11 The apostles and the believers throughout Judea heard that the Gentiles also had received the word of God. 2 So when Peter went up to Jerusalem, the circumcised believers criticized him 3 and said, “You went into the house of uncircumcised men and ate with them.”
+
+4 Starting from the beginning, Peter told them the whole story: 5 “I was in the city of Joppa praying, and in a trance I saw a vision. I saw something like a large sheet being let down from heaven by its four corners, and it came down to where I was. 6 I looked into it and saw four-footed animals of the earth, wild beasts, reptiles and birds. 7 Then I heard a voice telling me, ‘Get up, Peter. Kill and eat.’
+
+8 “I replied, ‘Surely not, Lord! Nothing impure or unclean has ever entered my mouth.’
+
+9 “The voice spoke from heaven a second time, ‘Do not call anything impure that God has made clean.’ 10 This happened three times, and then it was all pulled up to heaven again.
+
+11 “Right then three men who had been sent to me from Caesarea stopped at the house where I was staying. 12 The Spirit told me to have no hesitation about going with them. These six brothers also went with me, and we entered the man’s house. 13 He told us how he had seen an angel appear in his house and say, ‘Send to Joppa for Simon who is called Peter. 14 He will bring you a message through which you and all your household will be saved.’
+
+15 “As I began to speak, the Holy Spirit came on them as he had come on us at the beginning. 16 Then I remembered what the Lord had said: ‘John baptized with[a] water, but you will be baptized with[b] the Holy Spirit.’ 17 So if God gave them the same gift he gave us who believed in the Lord Jesus Christ, who was I to think that I could stand in God’s way?”
+
+18 When they heard this, they had no further objections and praised God, saying, “So then, even to Gentiles God has granted repentance that leads to life.”
+
+The Church in Antioch
+19 Now those who had been scattered by the persecution that broke out when Stephen was killed traveled as far as Phoenicia, Cyprus and Antioch, spreading the word only among Jews. 20 Some of them, however, men from Cyprus and Cyrene, went to Antioch and began to speak to Greeks also, telling them the good news about the Lord Jesus. 21 The Lord’s hand was with them, and a great number of people believed and turned to the Lord.
+
+22 News of this reached the church in Jerusalem, and they sent Barnabas to Antioch. 23 When he arrived and saw what the grace of God had done, he was glad and encouraged them all to remain true to the Lord with all their hearts. 24 He was a good man, full of the Holy Spirit and faith, and a great number of people were brought to the Lord.
+
+25 Then Barnabas went to Tarsus to look for Saul, 26 and when he found him, he brought him to Antioch. So for a whole year Barnabas and Saul met with the church and taught great numbers of people. The disciples were called Christians first at Antioch.
+
+27 During this time some prophets came down from Jerusalem to Antioch. 28 One of them, named Agabus, stood up and through the Spirit predicted that a severe famine would spread over the entire Roman world. (This happened during the reign of Claudius.) 29 The disciples, as each one was able, decided to provide help for the brothers and sisters living in Judea. 30 This they did, sending their gift to the elders by Barnabas and Saul.
             </p>
           </a>
 
@@ -404,9 +499,36 @@ Acts 8:37 Some manuscripts include here Philip said, “If you believe with all 
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h2>Deploy &rarr;</h2>
+            <h2>Peter’s Miraculous Escape From Prison &darr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+            
+12 It was about this time that King Herod arrested some who belonged to the church, intending to persecute them. 2 He had James, the brother of John, put to death with the sword. 3 When he saw that this met with approval among the Jews, he proceeded to seize Peter also. This happened during the Festival of Unleavened Bread. 4 After arresting him, he put him in prison, handing him over to be guarded by four squads of four soldiers each. Herod intended to bring him out for public trial after the Passover.
+
+5 So Peter was kept in prison, but the church was earnestly praying to God for him.
+
+6 The night before Herod was to bring him to trial, Peter was sleeping between two soldiers, bound with two chains, and sentries stood guard at the entrance. 7 Suddenly an angel of the Lord appeared and a light shone in the cell. He struck Peter on the side and woke him up. “Quick, get up!” he said, and the chains fell off Peter’s wrists.
+
+8 Then the angel said to him, “Put on your clothes and sandals.” And Peter did so. “Wrap your cloak around you and follow me,” the angel told him. 9 Peter followed him out of the prison, but he had no idea that what the angel was doing was really happening; he thought he was seeing a vision. 10 They passed the first and second guards and came to the iron gate leading to the city. It opened for them by itself, and they went through it. When they had walked the length of one street, suddenly the angel left him.
+
+11 Then Peter came to himself and said, “Now I know without a doubt that the Lord has sent his angel and rescued me from Herod’s clutches and from everything the Jewish people were hoping would happen.”
+
+12 When this had dawned on him, he went to the house of Mary the mother of John, also called Mark, where many people had gathered and were praying. 13 Peter knocked at the outer entrance, and a servant named Rhoda came to answer the door. 14 When she recognized Peter’s voice, she was so overjoyed she ran back without opening it and exclaimed, “Peter is at the door!”
+
+15 “You’re out of your mind,” they told her. When she kept insisting that it was so, they said, “It must be his angel.”
+
+16 But Peter kept on knocking, and when they opened the door and saw him, they were astonished. 17 Peter motioned with his hand for them to be quiet and described how the Lord had brought him out of prison. “Tell James and the other brothers and sisters about this,” he said, and then he left for another place.
+
+18 In the morning, there was no small commotion among the soldiers as to what had become of Peter. 19 After Herod had a thorough search made for him and did not find him, he cross-examined the guards and ordered that they be executed.
+
+Herod’s Death
+Then Herod went from Judea to Caesarea and stayed there. 20 He had been quarreling with the people of Tyre and Sidon; they now joined together and sought an audience with him. After securing the support of Blastus, a trusted personal servant of the king, they asked for peace, because they depended on the king’s country for their food supply.
+
+21 On the appointed day Herod, wearing his royal robes, sat on his throne and delivered a public address to the people. 22 They shouted, “This is the voice of a god, not of a man.” 23 Immediately, because Herod did not give praise to God, an angel of the Lord struck him down, and he was eaten by worms and died.
+
+24 But the word of God continued to spread and flourish.
+
+Barnabas and Saul Sent Off
+25 When Barnabas and Saul had finished their mission, they returned from[a] Jerusalem, taking with them John, also called Mark.
             </p>
           </a>
 
@@ -414,12 +536,227 @@ Acts 8:37 Some manuscripts include here Philip said, “If you believe with all 
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h2>Deploy &rarr;</h2>
+            <h2>Prophets and Teachers &darr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+            13 1 Now in the church at Antioch there were prophets and teachers: Barnabas, Simeon called Niger, Lucius of Cyrene, Manaen (who had been brought up with Herod the tetrarch) and Saul. 2 While they were worshiping the Lord and fasting, the Holy Spirit said, “Set apart for me Barnabas and Saul for the work to which I have called them.” 3 So after they had fasted and prayed, they placed their hands on them and sent them off.
+
+On Cyprus
+4 The two of them, sent on their way by the Holy Spirit, went down to Seleucia and sailed from there to Cyprus. 5 When they arrived at Salamis, they proclaimed the word of God in the Jewish synagogues. John was with them as their helper.
+
+6 They traveled through the whole island until they came to Paphos. There they met a Jewish sorcerer and false prophet named Bar-Jesus, 7 who was an attendant of the proconsul, Sergius Paulus. The proconsul, an intelligent man, sent for Barnabas and Saul because he wanted to hear the word of God. 8 But Elymas the sorcerer (for that is what his name means) opposed them and tried to turn the proconsul from the faith. 9 Then Saul, who was also called Paul, filled with the Holy Spirit, looked straight at Elymas and said, 10 “You are a child of the devil and an enemy of everything that is right! You are full of all kinds of deceit and trickery. Will you never stop perverting the right ways of the Lord? 11 Now the hand of the Lord is against you. You are going to be blind for a time, not even able to see the light of the sun.”
+
+Immediately mist and darkness came over him, and he groped about, seeking someone to lead him by the hand. 12 When the proconsul saw what had happened, he believed, for he was amazed at the teaching about the Lord.
+
+In Pisidian Antioch
+13 From Paphos, Paul and his companions sailed to Perga in Pamphylia, where John left them to return to Jerusalem. 14 From Perga they went on to Pisidian Antioch. On the Sabbath they entered the synagogue and sat down. 15 After the reading from the Law and the Prophets, the leaders of the synagogue sent word to them, saying, “Brothers, if you have a word of exhortation for the people, please speak.”
+
+16 Standing up, Paul motioned with his hand and said: “Fellow Israelites and you Gentiles who worship God, listen to me! 17 The God of the people of Israel chose our ancestors; he made the people prosper during their stay in Egypt; with mighty power he led them out of that country; 18 for about forty years he endured their conduct[a] in the wilderness; 19 and he overthrew seven nations in Canaan, giving their land to his people as their inheritance. 20 All this took about 450 years.
+
+“After this, God gave them judges until the time of Samuel the prophet. 21 Then the people asked for a king, and he gave them Saul son of Kish, of the tribe of Benjamin, who ruled forty years. 22 After removing Saul, he made David their king. God testified concerning him: ‘I have found David son of Jesse, a man after my own heart; he will do everything I want him to do.’
+
+23 “From this man’s descendants God has brought to Israel the Savior Jesus, as he promised. 24 Before the coming of Jesus, John preached repentance and baptism to all the people of Israel. 25 As John was completing his work, he said: ‘Who do you suppose I am? I am not the one you are looking for. But there is one coming after me whose sandals I am not worthy to untie.’
+
+26 “Fellow children of Abraham and you God-fearing Gentiles, it is to us that this message of salvation has been sent. 27 The people of Jerusalem and their rulers did not recognize Jesus, yet in condemning him they fulfilled the words of the prophets that are read every Sabbath. 28 Though they found no proper ground for a death sentence, they asked Pilate to have him executed. 29 When they had carried out all that was written about him, they took him down from the cross and laid him in a tomb. 30 But God raised him from the dead, 31 and for many days he was seen by those who had traveled with him from Galilee to Jerusalem. They are now his witnesses to our people.
+
+32 “We tell you the good news: What God promised our ancestors 33 he has fulfilled for us, their children, by raising up Jesus. As it is written in the second Psalm:
+
+“‘You are my son;
+    today I have become your father.’[b]
+
+34 God raised him from the dead so that he will never be subject to decay. As God has said,
+
+“‘I will give you the holy and sure blessings promised to David.’[c]
+
+35 So it is also stated elsewhere:
+
+“‘You will not let your holy one see decay.’[d]
+
+36 “Now when David had served God’s purpose in his own generation, he fell asleep; he was buried with his ancestors and his body decayed. 37 But the one whom God raised from the dead did not see decay.
+
+38 “Therefore, my friends, I want you to know that through Jesus the forgiveness of sins is proclaimed to you. 39 Through him everyone who believes is set free from every sin, a justification you were not able to obtain under the law of Moses. 40 Take care that what the prophets have said does not happen to you:
+
+41 “‘Look, you scoffers,
+    wonder and perish,
+for I am going to do something in your days
+    that you would never believe,
+    even if someone told you.’[e]”
+
+42 As Paul and Barnabas were leaving the synagogue, the people invited them to speak further about these things on the next Sabbath. 43 When the congregation was dismissed, many of the Jews and devout converts to Judaism followed Paul and Barnabas, who talked with them and urged them to continue in the grace of God.
+
+44 On the next Sabbath almost the whole city gathered to hear the word of the Lord. 45 When the Jews saw the crowds, they were filled with jealousy. They began to contradict what Paul was saying and heaped abuse on him.
+
+46 Then Paul and Barnabas answered them boldly: “We had to speak the word of God to you first. Since you reject it and do not consider yourselves worthy of eternal life, we now turn to the Gentiles. 47 For this is what the Lord has commanded us:
+
+“‘I have made you[f] a light for the Gentiles,
+    that you[g] may bring salvation to the ends of the earth.’[h]”
+
+48 When the Gentiles heard this, they were glad and honored the word of the Lord; and all who were appointed for eternal life believed.
+
+49 The word of the Lord spread through the whole region. 50 But the Jewish leaders incited the God-fearing women of high standing and the leading men of the city. They stirred up persecution against Paul and Barnabas, and expelled them from their region. 51 So they shook the dust off their feet as a warning to them and went to Iconium. 52 And the disciples were filled with joy and with the Holy Spirit.
             </p>
           </a>
-        </div>
+<div className={styles.card}>
+  <h2>In Iconium &darr;</h2>
+  <p>
+  
+14 At Iconium Paul and Barnabas went as usual into the Jewish synagogue. There they spoke so effectively that a great number of Jews and Greeks believed. 2 But the Jews who refused to believe stirred up the other Gentiles and poisoned their minds against the brothers. 3 So Paul and Barnabas spent considerable time there, speaking boldly for the Lord, who confirmed the message of his grace by enabling them to perform signs and wonders. 4 The people of the city were divided; some sided with the Jews, others with the apostles. 5 There was a plot afoot among both Gentiles and Jews, together with their leaders, to mistreat them and stone them. 6 But they found out about it and fled to the Lycaonian cities of Lystra and Derbe and to the surrounding country, 7 where they continued to preach the gospel.
+
+In Lystra and Derbe
+8 In Lystra there sat a man who was lame. He had been that way from birth and had never walked. 9 He listened to Paul as he was speaking. Paul looked directly at him, saw that he had faith to be healed 10 and called out, “Stand up on your feet!” At that, the man jumped up and began to walk.
+
+11 When the crowd saw what Paul had done, they shouted in the Lycaonian language, “The gods have come down to us in human form!” 12 Barnabas they called Zeus, and Paul they called Hermes because he was the chief speaker. 13 The priest of Zeus, whose temple was just outside the city, brought bulls and wreaths to the city gates because he and the crowd wanted to offer sacrifices to them.
+
+14 But when the apostles Barnabas and Paul heard of this, they tore their clothes and rushed out into the crowd, shouting: 15 “Friends, why are you doing this? We too are only human, like you. We are bringing you good news, telling you to turn from these worthless things to the living God, who made the heavens and the earth and the sea and everything in them. 16 In the past, he let all nations go their own way. 17 Yet he has not left himself without testimony: He has shown kindness by giving you rain from heaven and crops in their seasons; he provides you with plenty of food and fills your hearts with joy.” 18 Even with these words, they had difficulty keeping the crowd from sacrificing to them.
+
+19 Then some Jews came from Antioch and Iconium and won the crowd over. They stoned Paul and dragged him outside the city, thinking he was dead. 20 But after the disciples had gathered around him, he got up and went back into the city. The next day he and Barnabas left for Derbe.
+
+The Return to Antioch in Syria
+21 They preached the gospel in that city and won a large number of disciples. Then they returned to Lystra, Iconium and Antioch, 22 strengthening the disciples and encouraging them to remain true to the faith. “We must go through many hardships to enter the kingdom of God,” they said. 23 Paul and Barnabas appointed elders[a] for them in each church and, with prayer and fasting, committed them to the Lord, in whom they had put their trust. 24 After going through Pisidia, they came into Pamphylia, 25 and when they had preached the word in Perga, they went down to Attalia.
+
+26 From Attalia they sailed back to Antioch, where they had been committed to the grace of God for the work they had now completed. 27 On arriving there, they gathered the church together and reported all that God had done through them and how he had opened a door of faith to the Gentiles. 28 And they stayed there a long time with the disciples.
+  </p>
+</div>
+<div className={styles.card}>
+  <h2>
+  The Council at Jerusalem &darr;
+  </h2>
+<p>
+
+15 Certain people came down from Judea to Antioch and were teaching the believers: “Unless you are circumcised, according to the custom taught by Moses, you cannot be saved.” 2 This brought Paul and Barnabas into sharp dispute and debate with them. So Paul and Barnabas were appointed, along with some other believers, to go up to Jerusalem to see the apostles and elders about this question. 3 The church sent them on their way, and as they traveled through Phoenicia and Samaria, they told how the Gentiles had been converted. This news made all the believers very glad. 4 When they came to Jerusalem, they were welcomed by the church and the apostles and elders, to whom they reported everything God had done through them.
+
+5 Then some of the believers who belonged to the party of the Pharisees stood up and said, “The Gentiles must be circumcised and required to keep the law of Moses.”
+
+6 The apostles and elders met to consider this question. 7 After much discussion, Peter got up and addressed them: “Brothers, you know that some time ago God made a choice among you that the Gentiles might hear from my lips the message of the gospel and believe. 8 God, who knows the heart, showed that he accepted them by giving the Holy Spirit to them, just as he did to us. 9 He did not discriminate between us and them, for he purified their hearts by faith. 10 Now then, why do you try to test God by putting on the necks of Gentiles a yoke that neither we nor our ancestors have been able to bear? 11 No! We believe it is through the grace of our Lord Jesus that we are saved, just as they are.”
+
+12 The whole assembly became silent as they listened to Barnabas and Paul telling about the signs and wonders God had done among the Gentiles through them. 13 When they finished, James spoke up. “Brothers,” he said, “listen to me. 14 Simon[a] has described to us how God first intervened to choose a people for his name from the Gentiles. 15 The words of the prophets are in agreement with this, as it is written:
+
+16 “‘After this I will return
+    and rebuild David’s fallen tent.
+Its ruins I will rebuild,
+    and I will restore it,
+17 that the rest of mankind may seek the Lord,
+    even all the Gentiles who bear my name,
+says the Lord, who does these things’[b]—
+18     things known from long ago.[c]
+
+19 “It is my judgment, therefore, that we should not make it difficult for the Gentiles who are turning to God. 20 Instead we should write to them, telling them to abstain from food polluted by idols, from sexual immorality, from the meat of strangled animals and from blood. 21 For the law of Moses has been preached in every city from the earliest times and is read in the synagogues on every Sabbath.”
+
+The Council’s Letter to Gentile Believers
+22 Then the apostles and elders, with the whole church, decided to choose some of their own men and send them to Antioch with Paul and Barnabas. They chose Judas (called Barsabbas) and Silas, men who were leaders among the believers. 23 With them they sent the following letter:
+
+The apostles and elders, your brothers,
+
+To the Gentile believers in Antioch, Syria and Cilicia:
+
+Greetings.
+
+24 We have heard that some went out from us without our authorization and disturbed you, troubling your minds by what they said. 25 So we all agreed to choose some men and send them to you with our dear friends Barnabas and Paul— 26 men who have risked their lives for the name of our Lord Jesus Christ. 27 Therefore we are sending Judas and Silas to confirm by word of mouth what we are writing. 28 It seemed good to the Holy Spirit and to us not to burden you with anything beyond the following requirements: 29 You are to abstain from food sacrificed to idols, from blood, from the meat of strangled animals and from sexual immorality. You will do well to avoid these things.
+
+Farewell.
+
+30 So the men were sent off and went down to Antioch, where they gathered the church together and delivered the letter. 31 The people read it and were glad for its encouraging message. 32 Judas and Silas, who themselves were prophets, said much to encourage and strengthen the believers. 33 After spending some time there, they were sent off by the believers with the blessing of peace to return to those who had sent them. [34] [d] 35 But Paul and Barnabas remained in Antioch, where they and many others taught and preached the word of the Lord.
+
+Disagreement Between Paul and Barnabas
+36 Some time later Paul said to Barnabas, “Let us go back and visit the believers in all the towns where we preached the word of the Lord and see how they are doing.” 37 Barnabas wanted to take John, also called Mark, with them, 38 but Paul did not think it wise to take him, because he had deserted them in Pamphylia and had not continued with them in the work. 39 They had such a sharp disagreement that they parted company. Barnabas took Mark and sailed for Cyprus, 40 but Paul chose Silas and left, commended by the believers to the grace of the Lord. 41 He went through Syria and Cilicia, strengthening the churches.
+</p>
+</div>
+<div className={styles.card}>
+  <h2>In Thessalonica &darr;</h2>
+  <p>
+  
+17 When Paul and his companions had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a Jewish synagogue. 2 As was his custom, Paul went into the synagogue, and on three Sabbath days he reasoned with them from the Scriptures, 3 explaining and proving that the Messiah had to suffer and rise from the dead. “This Jesus I am proclaiming to you is the Messiah,” he said. 4 Some of the Jews were persuaded and joined Paul and Silas, as did a large number of God-fearing Greeks and quite a few prominent women.
+
+5 But other Jews were jealous; so they rounded up some bad characters from the marketplace, formed a mob and started a riot in the city. They rushed to Jason’s house in search of Paul and Silas in order to bring them out to the crowd.[a] 6 But when they did not find them, they dragged Jason and some other believers before the city officials, shouting: “These men who have caused trouble all over the world have now come here, 7 and Jason has welcomed them into his house. They are all defying Caesar’s decrees, saying that there is another king, one called Jesus.” 8 When they heard this, the crowd and the city officials were thrown into turmoil. 9 Then they made Jason and the others post bond and let them go.
+
+In Berea
+10 As soon as it was night, the believers sent Paul and Silas away to Berea. On arriving there, they went to the Jewish synagogue. 11 Now the Berean Jews were of more noble character than those in Thessalonica, for they received the message with great eagerness and examined the Scriptures every day to see if what Paul said was true. 12 As a result, many of them believed, as did also a number of prominent Greek women and many Greek men.
+
+13 But when the Jews in Thessalonica learned that Paul was preaching the word of God at Berea, some of them went there too, agitating the crowds and stirring them up. 14 The believers immediately sent Paul to the coast, but Silas and Timothy stayed at Berea. 15 Those who escorted Paul brought him to Athens and then left with instructions for Silas and Timothy to join him as soon as possible.
+
+In Athens
+16 While Paul was waiting for them in Athens, he was greatly distressed to see that the city was full of idols. 17 So he reasoned in the synagogue with both Jews and God-fearing Greeks, as well as in the marketplace day by day with those who happened to be there. 18 A group of Epicurean and Stoic philosophers began to debate with him. Some of them asked, “What is this babbler trying to say?” Others remarked, “He seems to be advocating foreign gods.” They said this because Paul was preaching the good news about Jesus and the resurrection. 19 Then they took him and brought him to a meeting of the Areopagus, where they said to him, “May we know what this new teaching is that you are presenting? 20 You are bringing some strange ideas to our ears, and we would like to know what they mean.” 21 (All the Athenians and the foreigners who lived there spent their time doing nothing but talking about and listening to the latest ideas.)
+
+22 Paul then stood up in the meeting of the Areopagus and said: “People of Athens! I see that in every way you are very religious. 23 For as I walked around and looked carefully at your objects of worship, I even found an altar with this inscription: to an unknown god. So you are ignorant of the very thing you worship—and this is what I am going to proclaim to you.
+
+24 “The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples built by human hands. 25 And he is not served by human hands, as if he needed anything. Rather, he himself gives everyone life and breath and everything else. 26 From one man he made all the nations, that they should inhabit the whole earth; and he marked out their appointed times in history and the boundaries of their lands. 27 God did this so that they would seek him and perhaps reach out for him and find him, though he is not far from any one of us. 28 ‘For in him we live and move and have our being.’[b] As some of your own poets have said, ‘We are his offspring.’[c]
+
+29 “Therefore since we are God’s offspring, we should not think that the divine being is like gold or silver or stone—an image made by human design and skill. 30 In the past God overlooked such ignorance, but now he commands all people everywhere to repent. 31 For he has set a day when he will judge the world with justice by the man he has appointed. He has given proof of this to everyone by raising him from the dead.”
+
+32 When they heard about the resurrection of the dead, some of them sneered, but others said, “We want to hear you again on this subject.” 33 At that, Paul left the Council. 34 Some of the people became followers of Paul and believed. Among them was Dionysius, a member of the Areopagus, also a woman named Damaris, and a number of others.
+
+
+  </p>
+</div>
+
+<div className={styles.card}>
+  <h2>In Corinth</h2>
+  <p>
+  
+18 After this, Paul left Athens and went to Corinth. 2 There he met a Jew named Aquila, a native of Pontus, who had recently come from Italy with his wife Priscilla, because Claudius had ordered all Jews to leave Rome. Paul went to see them, 3 and because he was a tentmaker as they were, he stayed and worked with them. 4 Every Sabbath he reasoned in the synagogue, trying to persuade Jews and Greeks.
+
+5 When Silas and Timothy came from Macedonia, Paul devoted himself exclusively to preaching, testifying to the Jews that Jesus was the Messiah. 6 But when they opposed Paul and became abusive, he shook out his clothes in protest and said to them, “Your blood be on your own heads! I am innocent of it. From now on I will go to the Gentiles.”
+
+7 Then Paul left the synagogue and went next door to the house of Titius Justus, a worshiper of God. 8 Crispus, the synagogue leader, and his entire household believed in the Lord; and many of the Corinthians who heard Paul believed and were baptized.
+
+9 One night the Lord spoke to Paul in a vision: “Do not be afraid; keep on speaking, do not be silent. 10 For I am with you, and no one is going to attack and harm you, because I have many people in this city.” 11 So Paul stayed in Corinth for a year and a half, teaching them the word of God.
+
+12 While Gallio was proconsul of Achaia, the Jews of Corinth made a united attack on Paul and brought him to the place of judgment. 13 “This man,” they charged, “is persuading the people to worship God in ways contrary to the law.”
+
+14 Just as Paul was about to speak, Gallio said to them, “If you Jews were making a complaint about some misdemeanor or serious crime, it would be reasonable for me to listen to you. 15 But since it involves questions about words and names and your own law—settle the matter yourselves. I will not be a judge of such things.” 16 So he drove them off. 17 Then the crowd there turned on Sosthenes the synagogue leader and beat him in front of the proconsul; and Gallio showed no concern whatever.
+
+Priscilla, Aquila and Apollos
+18 Paul stayed on in Corinth for some time. Then he left the brothers and sisters and sailed for Syria, accompanied by Priscilla and Aquila. Before he sailed, he had his hair cut off at Cenchreae because of a vow he had taken. 19 They arrived at Ephesus, where Paul left Priscilla and Aquila. He himself went into the synagogue and reasoned with the Jews. 20 When they asked him to spend more time with them, he declined. 21 But as he left, he promised, “I will come back if it is God’s will.” Then he set sail from Ephesus. 22 When he landed at Caesarea, he went up to Jerusalem and greeted the church and then went down to Antioch.
+
+23 After spending some time in Antioch, Paul set out from there and traveled from place to place throughout the region of Galatia and Phrygia, strengthening all the disciples.
+
+24 Meanwhile a Jew named Apollos, a native of Alexandria, came to Ephesus. He was a learned man, with a thorough knowledge of the Scriptures. 25 He had been instructed in the way of the Lord, and he spoke with great fervor[a] and taught about Jesus accurately, though he knew only the baptism of John. 26 He began to speak boldly in the synagogue. When Priscilla and Aquila heard him, they invited him to their home and explained to him the way of God more adequately.
+
+27 When Apollos wanted to go to Achaia, the brothers and sisters encouraged him and wrote to the disciples there to welcome him. When he arrived, he was a great help to those who by grace had believed. 28 For he vigorously refuted his Jewish opponents in public debate, proving from the Scriptures that Jesus was the Messiah.
+
+
+  </p>
+</div>
+<div className={styles.card}>
+  <h2>
+  Paul in Ephesus</h2>
+  <p>
+19 While Apollos was at Corinth, Paul took the road through the interior and arrived at Ephesus. There he found some disciples 2 and asked them, “Did you receive the Holy Spirit when[a] you believed?”
+
+They answered, “No, we have not even heard that there is a Holy Spirit.”
+
+3 So Paul asked, “Then what baptism did you receive?”
+
+“John’s baptism,” they replied.
+
+4 Paul said, “John’s baptism was a baptism of repentance. He told the people to believe in the one coming after him, that is, in Jesus.” 5 On hearing this, they were baptized in the name of the Lord Jesus. 6 When Paul placed his hands on them, the Holy Spirit came on them, and they spoke in tongues[b] and prophesied. 7 There were about twelve men in all.
+
+8 Paul entered the synagogue and spoke boldly there for three months, arguing persuasively about the kingdom of God. 9 But some of them became obstinate; they refused to believe and publicly maligned the Way. So Paul left them. He took the disciples with him and had discussions daily in the lecture hall of Tyrannus. 10 This went on for two years, so that all the Jews and Greeks who lived in the province of Asia heard the word of the Lord.
+
+11 God did extraordinary miracles through Paul, 12 so that even handkerchiefs and aprons that had touched him were taken to the sick, and their illnesses were cured and the evil spirits left them.
+
+13 Some Jews who went around driving out evil spirits tried to invoke the name of the Lord Jesus over those who were demon-possessed. They would say, “In the name of the Jesus whom Paul preaches, I command you to come out.” 14 Seven sons of Sceva, a Jewish chief priest, were doing this. 15 One day the evil spirit answered them, “Jesus I know, and Paul I know about, but who are you?” 16 Then the man who had the evil spirit jumped on them and overpowered them all. He gave them such a beating that they ran out of the house naked and bleeding.
+
+17 When this became known to the Jews and Greeks living in Ephesus, they were all seized with fear, and the name of the Lord Jesus was held in high honor. 18 Many of those who believed now came and openly confessed what they had done. 19 A number who had practiced sorcery brought their scrolls together and burned them publicly. When they calculated the value of the scrolls, the total came to fifty thousand drachmas.[c] 20 In this way the word of the Lord spread widely and grew in power.
+
+21 After all this had happened, Paul decided[d] to go to Jerusalem, passing through Macedonia and Achaia. “After I have been there,” he said, “I must visit Rome also.” 22 He sent two of his helpers, Timothy and Erastus, to Macedonia, while he stayed in the province of Asia a little longer.
+
+The Riot in Ephesus
+23 About that time there arose a great disturbance about the Way. 24 A silversmith named Demetrius, who made silver shrines of Artemis, brought in a lot of business for the craftsmen there. 25 He called them together, along with the workers in related trades, and said: “You know, my friends, that we receive a good income from this business. 26 And you see and hear how this fellow Paul has convinced and led astray large numbers of people here in Ephesus and in practically the whole province of Asia. He says that gods made by human hands are no gods at all. 27 There is danger not only that our trade will lose its good name, but also that the temple of the great goddess Artemis will be discredited; and the goddess herself, who is worshiped throughout the province of Asia and the world, will be robbed of her divine majesty.”
+
+28 When they heard this, they were furious and began shouting: “Great is Artemis of the Ephesians!” 29 Soon the whole city was in an uproar. The people seized Gaius and Aristarchus, Paul’s traveling companions from Macedonia, and all of them rushed into the theater together. 30 Paul wanted to appear before the crowd, but the disciples would not let him. 31 Even some of the officials of the province, friends of Paul, sent him a message begging him not to venture into the theater.
+
+32 The assembly was in confusion: Some were shouting one thing, some another. Most of the people did not even know why they were there. 33 The Jews in the crowd pushed Alexander to the front, and they shouted instructions to him. He motioned for silence in order to make a defense before the people. 34 But when they realized he was a Jew, they all shouted in unison for about two hours: “Great is Artemis of the Ephesians!”
+
+35 The city clerk quieted the crowd and said: “Fellow Ephesians, doesn’t all the world know that the city of Ephesus is the guardian of the temple of the great Artemis and of her image, which fell from heaven? 36 Therefore, since these facts are undeniable, you ought to calm down and not do anything rash. 37 You have brought these men here, though they have neither robbed temples nor blasphemed our goddess. 38 If, then, Demetrius and his fellow craftsmen have a grievance against anybody, the courts are open and there are proconsuls. They can press charges. 39 If there is anything further you want to bring up, it must be settled in a legal assembly. 40 As it is, we are in danger of being charged with rioting because of what happened today. In that case we would not be able to account for this commotion, since there is no reason for it.” 41 After he had said this, he dismissed the assembly.
+
+
+  
+  
+
+  </p>
+</div>
+</div>
+
       </main>
 
       <footer className={styles.footer}>
