@@ -755,6 +755,350 @@ The Riot in Ephesus
 
   </p>
 </div>
+<div className={styles.card}>
+  <h2>
+  Through Macedonia and Greece
+  </h2>
+  <p>
+  
+20 When the uproar had ended, Paul sent for the disciples and, after encouraging them, said goodbye and set out for Macedonia. 2 He traveled through that area, speaking many words of encouragement to the people, and finally arrived in Greece, 3 where he stayed three months. Because some Jews had plotted against him just as he was about to sail for Syria, he decided to go back through Macedonia. 4 He was accompanied by Sopater son of Pyrrhus from Berea, Aristarchus and Secundus from Thessalonica, Gaius from Derbe, Timothy also, and Tychicus and Trophimus from the province of Asia. 5 These men went on ahead and waited for us at Troas. 6 But we sailed from Philippi after the Festival of Unleavened Bread, and five days later joined the others at Troas, where we stayed seven days.
+
+Eutychus Raised From the Dead at Troas
+7 On the first day of the week we came together to break bread. Paul spoke to the people and, because he intended to leave the next day, kept on talking until midnight. 8 There were many lamps in the upstairs room where we were meeting. 9 Seated in a window was a young man named Eutychus, who was sinking into a deep sleep as Paul talked on and on. When he was sound asleep, he fell to the ground from the third story and was picked up dead. 10 Paul went down, threw himself on the young man and put his arms around him. “Don’t be alarmed,” he said. “He’s alive!” 11 Then he went upstairs again and broke bread and ate. After talking until daylight, he left. 12 The people took the young man home alive and were greatly comforted.
+
+Paul’s Farewell to the Ephesian Elders
+13 We went on ahead to the ship and sailed for Assos, where we were going to take Paul aboard. He had made this arrangement because he was going there on foot. 14 When he met us at Assos, we took him aboard and went on to Mitylene. 15 The next day we set sail from there and arrived off Chios. The day after that we crossed over to Samos, and on the following day arrived at Miletus. 16 Paul had decided to sail past Ephesus to avoid spending time in the province of Asia, for he was in a hurry to reach Jerusalem, if possible, by the day of Pentecost.
+
+17 From Miletus, Paul sent to Ephesus for the elders of the church. 18 When they arrived, he said to them: “You know how I lived the whole time I was with you, from the first day I came into the province of Asia. 19 I served the Lord with great humility and with tears and in the midst of severe testing by the plots of my Jewish opponents. 20 You know that I have not hesitated to preach anything that would be helpful to you but have taught you publicly and from house to house. 21 I have declared to both Jews and Greeks that they must turn to God in repentance and have faith in our Lord Jesus.
+
+22 “And now, compelled by the Spirit, I am going to Jerusalem, not knowing what will happen to me there. 23 I only know that in every city the Holy Spirit warns me that prison and hardships are facing me. 24 However, I consider my life worth nothing to me; my only aim is to finish the race and complete the task the Lord Jesus has given me—the task of testifying to the good news of God’s grace.
+
+25 “Now I know that none of you among whom I have gone about preaching the kingdom will ever see me again. 26 Therefore, I declare to you today that I am innocent of the blood of any of you. 27 For I have not hesitated to proclaim to you the whole will of God. 28 Keep watch over yourselves and all the flock of which the Holy Spirit has made you overseers. Be shepherds of the church of God,[a] which he bought with his own blood.[b] 29 I know that after I leave, savage wolves will come in among you and will not spare the flock. 30 Even from your own number men will arise and distort the truth in order to draw away disciples after them. 31 So be on your guard! Remember that for three years I never stopped warning each of you night and day with tears.
+
+32 “Now I commit you to God and to the word of his grace, which can build you up and give you an inheritance among all those who are sanctified. 33 I have not coveted anyone’s silver or gold or clothing. 34 You yourselves know that these hands of mine have supplied my own needs and the needs of my companions. 35 In everything I did, I showed you that by this kind of hard work we must help the weak, remembering the words the Lord Jesus himself said: ‘It is more blessed to give than to receive.’ ”
+
+36 When Paul had finished speaking, he knelt down with all of them and prayed. 37 They all wept as they embraced him and kissed him. 38 What grieved them most was his statement that they would never see his face again. Then they accompanied him to the ship.
+  </p>
+</div>
+
+<div className={styles.card}>
+  <h2>
+  On to Jerusalem
+  </h2>
+  <p>
+  
+21 After we had torn ourselves away from them, we put out to sea and sailed straight to Kos. The next day we went to Rhodes and from there to Patara. 2 We found a ship crossing over to Phoenicia, went on board and set sail. 3 After sighting Cyprus and passing to the south of it, we sailed on to Syria. We landed at Tyre, where our ship was to unload its cargo. 4 We sought out the disciples there and stayed with them seven days. Through the Spirit they urged Paul not to go on to Jerusalem. 5 When it was time to leave, we left and continued on our way. All of them, including wives and children, accompanied us out of the city, and there on the beach we knelt to pray. 6 After saying goodbye to each other, we went aboard the ship, and they returned home.
+
+7 We continued our voyage from Tyre and landed at Ptolemais, where we greeted the brothers and sisters and stayed with them for a day. 8 Leaving the next day, we reached Caesarea and stayed at the house of Philip the evangelist, one of the Seven. 9 He had four unmarried daughters who prophesied.
+
+10 After we had been there a number of days, a prophet named Agabus came down from Judea. 11 Coming over to us, he took Paul’s belt, tied his own hands and feet with it and said, “The Holy Spirit says, ‘In this way the Jewish leaders in Jerusalem will bind the owner of this belt and will hand him over to the Gentiles.’”
+
+12 When we heard this, we and the people there pleaded with Paul not to go up to Jerusalem. 13 Then Paul answered, “Why are you weeping and breaking my heart? I am ready not only to be bound, but also to die in Jerusalem for the name of the Lord Jesus.” 14 When he would not be dissuaded, we gave up and said, “The Lord’s will be done.”
+
+15 After this, we started on our way up to Jerusalem. 16 Some of the disciples from Caesarea accompanied us and brought us to the home of Mnason, where we were to stay. He was a man from Cyprus and one of the early disciples.
+
+Paul’s Arrival at Jerusalem
+17 When we arrived at Jerusalem, the brothers and sisters received us warmly. 18 The next day Paul and the rest of us went to see James, and all the elders were present. 19 Paul greeted them and reported in detail what God had done among the Gentiles through his ministry.
+
+20 When they heard this, they praised God. Then they said to Paul: “You see, brother, how many thousands of Jews have believed, and all of them are zealous for the law. 21 They have been informed that you teach all the Jews who live among the Gentiles to turn away from Moses, telling them not to circumcise their children or live according to our customs. 22 What shall we do? They will certainly hear that you have come, 23 so do what we tell you. There are four men with us who have made a vow. 24 Take these men, join in their purification rites and pay their expenses, so that they can have their heads shaved. Then everyone will know there is no truth in these reports about you, but that you yourself are living in obedience to the law. 25 As for the Gentile believers, we have written to them our decision that they should abstain from food sacrificed to idols, from blood, from the meat of strangled animals and from sexual immorality.”
+
+26 The next day Paul took the men and purified himself along with them. Then he went to the temple to give notice of the date when the days of purification would end and the offering would be made for each of them.
+
+Paul Arrested
+27 When the seven days were nearly over, some Jews from the province of Asia saw Paul at the temple. They stirred up the whole crowd and seized him, 28 shouting, “Fellow Israelites, help us! This is the man who teaches everyone everywhere against our people and our law and this place. And besides, he has brought Greeks into the temple and defiled this holy place.” 29 (They had previously seen Trophimus the Ephesian in the city with Paul and assumed that Paul had brought him into the temple.)
+
+30 The whole city was aroused, and the people came running from all directions. Seizing Paul, they dragged him from the temple, and immediately the gates were shut. 31 While they were trying to kill him, news reached the commander of the Roman troops that the whole city of Jerusalem was in an uproar. 32 He at once took some officers and soldiers and ran down to the crowd. When the rioters saw the commander and his soldiers, they stopped beating Paul.
+
+33 The commander came up and arrested him and ordered him to be bound with two chains. Then he asked who he was and what he had done. 34 Some in the crowd shouted one thing and some another, and since the commander could not get at the truth because of the uproar, he ordered that Paul be taken into the barracks. 35 When Paul reached the steps, the violence of the mob was so great he had to be carried by the soldiers. 36 The crowd that followed kept shouting, “Get rid of him!”
+
+Paul Speaks to the Crowd
+37 As the soldiers were about to take Paul into the barracks, he asked the commander, “May I say something to you?”
+
+“Do you speak Greek?” he replied. 38 “Aren’t you the Egyptian who started a revolt and led four thousand terrorists out into the wilderness some time ago?”
+
+39 Paul answered, “I am a Jew, from Tarsus in Cilicia, a citizen of no ordinary city. Please let me speak to the people.”
+
+40 After receiving the commander’s permission, Paul stood on the steps and motioned to the crowd. When they were all silent, he said to them in Aramaic[a]:
+  </p>
+</div>
+
+<div className={styles.card}>
+  <h2>
+  22 1 “Brothers and fathers, listen now to my defense.”
+  </h2>
+  <p>
+  22 1 “Brothers and fathers, listen now to my defense.”
+
+2 When they heard him speak to them in Aramaic, they became very quiet.
+
+Then Paul said: 3 “I am a Jew, born in Tarsus of Cilicia, but brought up in this city. I studied under Gamaliel and was thoroughly trained in the law of our ancestors. I was just as zealous for God as any of you are today. 4 I persecuted the followers of this Way to their death, arresting both men and women and throwing them into prison, 5 as the high priest and all the Council can themselves testify. I even obtained letters from them to their associates in Damascus, and went there to bring these people as prisoners to Jerusalem to be punished.
+
+6 “About noon as I came near Damascus, suddenly a bright light from heaven flashed around me. 7 I fell to the ground and heard a voice say to me, ‘Saul! Saul! Why do you persecute me?’
+
+8 “‘Who are you, Lord?’ I asked.
+
+“ ‘I am Jesus of Nazareth, whom you are persecuting,’ he replied. 9 My companions saw the light, but they did not understand the voice of him who was speaking to me.
+
+10 “‘What shall I do, Lord?’ I asked.
+
+“ ‘Get up,’ the Lord said, ‘and go into Damascus. There you will be told all that you have been assigned to do.’ 11 My companions led me by the hand into Damascus, because the brilliance of the light had blinded me.
+
+12 “A man named Ananias came to see me. He was a devout observer of the law and highly respected by all the Jews living there. 13 He stood beside me and said, ‘Brother Saul, receive your sight!’ And at that very moment I was able to see him.
+
+14 “Then he said: ‘The God of our ancestors has chosen you to know his will and to see the Righteous One and to hear words from his mouth. 15 You will be his witness to all people of what you have seen and heard. 16 And now what are you waiting for? Get up, be baptized and wash your sins away, calling on his name.’
+
+17 “When I returned to Jerusalem and was praying at the temple, I fell into a trance 18 and saw the Lord speaking to me. ‘Quick!’ he said. ‘Leave Jerusalem immediately, because the people here will not accept your testimony about me.’
+
+19 “‘Lord,’ I replied, ‘these people know that I went from one synagogue to another to imprison and beat those who believe in you. 20 And when the blood of your martyr[a] Stephen was shed, I stood there giving my approval and guarding the clothes of those who were killing him.’
+
+21 “Then the Lord said to me, ‘Go; I will send you far away to the Gentiles.’ ”
+
+Paul the Roman Citizen
+22 The crowd listened to Paul until he said this. Then they raised their voices and shouted, “Rid the earth of him! He’s not fit to live!”
+
+23 As they were shouting and throwing off their cloaks and flinging dust into the air, 24 the commander ordered that Paul be taken into the barracks. He directed that he be flogged and interrogated in order to find out why the people were shouting at him like this. 25 As they stretched him out to flog him, Paul said to the centurion standing there, “Is it legal for you to flog a Roman citizen who hasn’t even been found guilty?”
+
+26 When the centurion heard this, he went to the commander and reported it. “What are you going to do?” he asked. “This man is a Roman citizen.”
+
+27 The commander went to Paul and asked, “Tell me, are you a Roman citizen?”
+
+“Yes, I am,” he answered.
+
+28 Then the commander said, “I had to pay a lot of money for my citizenship.”
+
+“But I was born a citizen,” Paul replied.
+
+29 Those who were about to interrogate him withdrew immediately. The commander himself was alarmed when he realized that he had put Paul, a Roman citizen, in chains.
+
+Paul Before the Sanhedrin
+30 The commander wanted to find out exactly why Paul was being accused by the Jews. So the next day he released him and ordered the chief priests and all the members of the Sanhedrin to assemble. Then he brought Paul and had him stand before them.
+  </p>
+</div>
+
+<div className={styles.card}>
+  <h2>
+  23 Paul looked straight at the Sanhedrin
+  </h2>
+  <p>
+   and said, “My brothers, I have fulfilled my duty to God in all good conscience to this day.” 2 At this the high priest Ananias ordered those standing near Paul to strike him on the mouth. 3 Then Paul said to him, “God will strike you, you whitewashed wall! You sit there to judge me according to the law, yet you yourself violate the law by commanding that I be struck!”
+
+4 Those who were standing near Paul said, “How dare you insult God’s high priest!”
+
+5 Paul replied, “Brothers, I did not realize that he was the high priest; for it is written: ‘Do not speak evil about the ruler of your people.’[a]”
+
+6 Then Paul, knowing that some of them were Sadducees and the others Pharisees, called out in the Sanhedrin, “My brothers, I am a Pharisee, descended from Pharisees. I stand on trial because of the hope of the resurrection of the dead.” 7 When he said this, a dispute broke out between the Pharisees and the Sadducees, and the assembly was divided. 8 (The Sadducees say that there is no resurrection, and that there are neither angels nor spirits, but the Pharisees believe all these things.)
+
+9 There was a great uproar, and some of the teachers of the law who were Pharisees stood up and argued vigorously. “We find nothing wrong with this man,” they said. “What if a spirit or an angel has spoken to him?” 10 The dispute became so violent that the commander was afraid Paul would be torn to pieces by them. He ordered the troops to go down and take him away from them by force and bring him into the barracks.
+
+11 The following night the Lord stood near Paul and said, “Take courage! As you have testified about me in Jerusalem, so you must also testify in Rome.”
+
+The Plot to Kill Paul
+12 The next morning some Jews formed a conspiracy and bound themselves with an oath not to eat or drink until they had killed Paul. 13 More than forty men were involved in this plot. 14 They went to the chief priests and the elders and said, “We have taken a solemn oath not to eat anything until we have killed Paul. 15 Now then, you and the Sanhedrin petition the commander to bring him before you on the pretext of wanting more accurate information about his case. We are ready to kill him before he gets here.”
+
+16 But when the son of Paul’s sister heard of this plot, he went into the barracks and told Paul.
+
+17 Then Paul called one of the centurions and said, “Take this young man to the commander; he has something to tell him.” 18 So he took him to the commander.
+
+The centurion said, “Paul, the prisoner, sent for me and asked me to bring this young man to you because he has something to tell you.”
+
+19 The commander took the young man by the hand, drew him aside and asked, “What is it you want to tell me?”
+
+20 He said: “Some Jews have agreed to ask you to bring Paul before the Sanhedrin tomorrow on the pretext of wanting more accurate information about him. 21 Don’t give in to them, because more than forty of them are waiting in ambush for him. They have taken an oath not to eat or drink until they have killed him. They are ready now, waiting for your consent to their request.”
+
+22 The commander dismissed the young man with this warning: “Don’t tell anyone that you have reported this to me.”
+
+Paul Transferred to Caesarea
+23 Then he called two of his centurions and ordered them, “Get ready a detachment of two hundred soldiers, seventy horsemen and two hundred spearmen[b] to go to Caesarea at nine tonight. 24 Provide horses for Paul so that he may be taken safely to Governor Felix.”
+
+25 He wrote a letter as follows:
+
+26 Claudius Lysias,
+
+To His Excellency, Governor Felix:
+
+Greetings.
+
+27 This man was seized by the Jews and they were about to kill him, but I came with my troops and rescued him, for I had learned that he is a Roman citizen. 28 I wanted to know why they were accusing him, so I brought him to their Sanhedrin. 29 I found that the accusation had to do with questions about their law, but there was no charge against him that deserved death or imprisonment. 30 When I was informed of a plot to be carried out against the man, I sent him to you at once. I also ordered his accusers to present to you their case against him.
+
+31 So the soldiers, carrying out their orders, took Paul with them during the night and brought him as far as Antipatris. 32 The next day they let the cavalry go on with him, while they returned to the barracks. 33 When the cavalry arrived in Caesarea, they delivered the letter to the governor and handed Paul over to him. 34 The governor read the letter and asked what province he was from. Learning that he was from Cilicia, 35 he said, “I will hear your case when your accusers get here.” Then he ordered that Paul be kept under guard in Herod’s palace.
+  </p>
+</div>
+
+<div className={styles.card}>
+  <h2>
+  Paul’s Trial Before Felix
+  </h2>
+  <p>
+  
+24 Five days later the high priest Ananias went down to Caesarea with some of the elders and a lawyer named Tertullus, and they brought their charges against Paul before the governor. 2 When Paul was called in, Tertullus presented his case before Felix: “We have enjoyed a long period of peace under you, and your foresight has brought about reforms in this nation. 3 Everywhere and in every way, most excellent Felix, we acknowledge this with profound gratitude. 4 But in order not to weary you further, I would request that you be kind enough to hear us briefly.
+
+5 “We have found this man to be a troublemaker, stirring up riots among the Jews all over the world. He is a ringleader of the Nazarene sect 6 and even tried to desecrate the temple; so we seized him. [7] [a] 8 By examining him yourself you will be able to learn the truth about all these charges we are bringing against him.”
+
+9 The other Jews joined in the accusation, asserting that these things were true.
+
+10 When the governor motioned for him to speak, Paul replied: “I know that for a number of years you have been a judge over this nation; so I gladly make my defense. 11 You can easily verify that no more than twelve days ago I went up to Jerusalem to worship. 12 My accusers did not find me arguing with anyone at the temple, or stirring up a crowd in the synagogues or anywhere else in the city. 13 And they cannot prove to you the charges they are now making against me. 14 However, I admit that I worship the God of our ancestors as a follower of the Way, which they call a sect. I believe everything that is in accordance with the Law and that is written in the Prophets, 15 and I have the same hope in God as these men themselves have, that there will be a resurrection of both the righteous and the wicked. 16 So I strive always to keep my conscience clear before God and man.
+
+17 “After an absence of several years, I came to Jerusalem to bring my people gifts for the poor and to present offerings. 18 I was ceremonially clean when they found me in the temple courts doing this. There was no crowd with me, nor was I involved in any disturbance. 19 But there are some Jews from the province of Asia, who ought to be here before you and bring charges if they have anything against me. 20 Or these who are here should state what crime they found in me when I stood before the Sanhedrin— 21 unless it was this one thing I shouted as I stood in their presence: ‘It is concerning the resurrection of the dead that I am on trial before you today.’”
+
+22 Then Felix, who was well acquainted with the Way, adjourned the proceedings. “When Lysias the commander comes,” he said, “I will decide your case.” 23 He ordered the centurion to keep Paul under guard but to give him some freedom and permit his friends to take care of his needs.
+
+24 Several days later Felix came with his wife Drusilla, who was Jewish. He sent for Paul and listened to him as he spoke about faith in Christ Jesus. 25 As Paul talked about righteousness, self-control and the judgment to come, Felix was afraid and said, “That’s enough for now! You may leave. When I find it convenient, I will send for you.” 26 At the same time he was hoping that Paul would offer him a bribe, so he sent for him frequently and talked with him.
+
+27 When two years had passed, Felix was succeeded by Porcius Festus, but because Felix wanted to grant a favor to the Jews, he left Paul in prison.
+  </p>
+</div>
+
+<div className={styles.card}>
+  <h2>
+  Paul’s Trial Before Festus
+  </h2>
+  <p>
+ 
+25 Three days after arriving in the province, Festus went up from Caesarea to Jerusalem, 2 where the chief priests and the Jewish leaders appeared before him and presented the charges against Paul. 3 They requested Festus, as a favor to them, to have Paul transferred to Jerusalem, for they were preparing an ambush to kill him along the way. 4 Festus answered, “Paul is being held at Caesarea, and I myself am going there soon. 5 Let some of your leaders come with me, and if the man has done anything wrong, they can press charges against him there.”
+
+6 After spending eight or ten days with them, Festus went down to Caesarea. The next day he convened the court and ordered that Paul be brought before him. 7 When Paul came in, the Jews who had come down from Jerusalem stood around him. They brought many serious charges against him, but they could not prove them.
+
+8 Then Paul made his defense: “I have done nothing wrong against the Jewish law or against the temple or against Caesar.”
+
+9 Festus, wishing to do the Jews a favor, said to Paul, “Are you willing to go up to Jerusalem and stand trial before me there on these charges?”
+
+10 Paul answered: “I am now standing before Caesar’s court, where I ought to be tried. I have not done any wrong to the Jews, as you yourself know very well. 11 If, however, I am guilty of doing anything deserving death, I do not refuse to die. But if the charges brought against me by these Jews are not true, no one has the right to hand me over to them. I appeal to Caesar!”
+
+12 After Festus had conferred with his council, he declared: “You have appealed to Caesar. To Caesar you will go!”
+
+Festus Consults King Agrippa
+13 A few days later King Agrippa and Bernice arrived at Caesarea to pay their respects to Festus. 14 Since they were spending many days there, Festus discussed Paul’s case with the king. He said: “There is a man here whom Felix left as a prisoner. 15 When I went to Jerusalem, the chief priests and the elders of the Jews brought charges against him and asked that he be condemned.
+
+16 “I told them that it is not the Roman custom to hand over anyone before they have faced their accusers and have had an opportunity to defend themselves against the charges. 17 When they came here with me, I did not delay the case, but convened the court the next day and ordered the man to be brought in. 18 When his accusers got up to speak, they did not charge him with any of the crimes I had expected. 19 Instead, they had some points of dispute with him about their own religion and about a dead man named Jesus who Paul claimed was alive. 20 I was at a loss how to investigate such matters; so I asked if he would be willing to go to Jerusalem and stand trial there on these charges. 21 But when Paul made his appeal to be held over for the Emperor’s decision, I ordered him held until I could send him to Caesar.”
+
+22 Then Agrippa said to Festus, “I would like to hear this man myself.”
+
+He replied, “Tomorrow you will hear him.”
+
+Paul Before Agrippa
+23 The next day Agrippa and Bernice came with great pomp and entered the audience room with the high-ranking military officers and the prominent men of the city. At the command of Festus, Paul was brought in. 24 Festus said: “King Agrippa, and all who are present with us, you see this man! The whole Jewish community has petitioned me about him in Jerusalem and here in Caesarea, shouting that he ought not to live any longer. 25 I found he had done nothing deserving of death, but because he made his appeal to the Emperor I decided to send him to Rome. 26 But I have nothing definite to write to His Majesty about him. Therefore I have brought him before all of you, and especially before you, King Agrippa, so that as a result of this investigation I may have something to write. 27 For I think it is unreasonable to send a prisoner on to Rome without specifying the charges against him.”
+  </p>
+</div>
+
+<div className={styles.card}>
+  <h2>
+  “You have permission to speak for yourself.”
+  </h2>
+  <p>
+  26 Then Agrippa said to Paul, “You have permission to speak for yourself.”
+
+So Paul motioned with his hand and began his defense: 2 “King Agrippa, I consider myself fortunate to stand before you today as I make my defense against all the accusations of the Jews, 3 and especially so because you are well acquainted with all the Jewish customs and controversies. Therefore, I beg you to listen to me patiently.
+
+4 “The Jewish people all know the way I have lived ever since I was a child, from the beginning of my life in my own country, and also in Jerusalem. 5 They have known me for a long time and can testify, if they are willing, that I conformed to the strictest sect of our religion, living as a Pharisee. 6 And now it is because of my hope in what God has promised our ancestors that I am on trial today. 7 This is the promise our twelve tribes are hoping to see fulfilled as they earnestly serve God day and night. King Agrippa, it is because of this hope that these Jews are accusing me. 8 Why should any of you consider it incredible that God raises the dead?
+
+9 “I too was convinced that I ought to do all that was possible to oppose the name of Jesus of Nazareth. 10 And that is just what I did in Jerusalem. On the authority of the chief priests I put many of the Lord’s people in prison, and when they were put to death, I cast my vote against them. 11 Many a time I went from one synagogue to another to have them punished, and I tried to force them to blaspheme. I was so obsessed with persecuting them that I even hunted them down in foreign cities.
+
+12 “On one of these journeys I was going to Damascus with the authority and commission of the chief priests. 13 About noon, King Agrippa, as I was on the road, I saw a light from heaven, brighter than the sun, blazing around me and my companions. 14 We all fell to the ground, and I heard a voice saying to me in Aramaic,[a] ‘Saul, Saul, why do you persecute me? It is hard for you to kick against the goads.’
+
+15 “Then I asked, ‘Who are you, Lord?’
+
+“ ‘I am Jesus, whom you are persecuting,’ the Lord replied. 16 ‘Now get up and stand on your feet. I have appeared to you to appoint you as a servant and as a witness of what you have seen and will see of me. 17 I will rescue you from your own people and from the Gentiles. I am sending you to them 18 to open their eyes and turn them from darkness to light, and from the power of Satan to God, so that they may receive forgiveness of sins and a place among those who are sanctified by faith in me.’
+
+19 “So then, King Agrippa, I was not disobedient to the vision from heaven. 20 First to those in Damascus, then to those in Jerusalem and in all Judea, and then to the Gentiles, I preached that they should repent and turn to God and demonstrate their repentance by their deeds. 21 That is why some Jews seized me in the temple courts and tried to kill me. 22 But God has helped me to this very day; so I stand here and testify to small and great alike. I am saying nothing beyond what the prophets and Moses said would happen— 23 that the Messiah would suffer and, as the first to rise from the dead, would bring the message of light to his own people and to the Gentiles.”
+
+24 At this point Festus interrupted Paul’s defense. “You are out of your mind, Paul!” he shouted. “Your great learning is driving you insane.”
+
+25 “I am not insane, most excellent Festus,” Paul replied. “What I am saying is true and reasonable. 26 The king is familiar with these things, and I can speak freely to him. I am convinced that none of this has escaped his notice, because it was not done in a corner. 27 King Agrippa, do you believe the prophets? I know you do.”
+
+28 Then Agrippa said to Paul, “Do you think that in such a short time you can persuade me to be a Christian?”
+
+29 Paul replied, “Short time or long—I pray to God that not only you but all who are listening to me today may become what I am, except for these chains.”
+
+30 The king rose, and with him the governor and Bernice and those sitting with them. 31 After they left the room, they began saying to one another, “This man is not doing anything that deserves death or imprisonment.”
+
+32 Agrippa said to Festus, “This man could have been set free if he had not appealed to Caesar.”
+  </p>
+</div>
+
+<div className={styles.card}>
+  <h2>
+  Paul Sails for Rome
+  </h2>
+  <p>
+ 
+27 When it was decided that we would sail for Italy, Paul and some other prisoners were handed over to a centurion named Julius, who belonged to the Imperial Regiment. 2 We boarded a ship from Adramyttium about to sail for ports along the coast of the province of Asia, and we put out to sea. Aristarchus, a Macedonian from Thessalonica, was with us.
+
+3 The next day we landed at Sidon; and Julius, in kindness to Paul, allowed him to go to his friends so they might provide for his needs. 4 From there we put out to sea again and passed to the lee of Cyprus because the winds were against us. 5 When we had sailed across the open sea off the coast of Cilicia and Pamphylia, we landed at Myra in Lycia. 6 There the centurion found an Alexandrian ship sailing for Italy and put us on board. 7 We made slow headway for many days and had difficulty arriving off Cnidus. When the wind did not allow us to hold our course, we sailed to the lee of Crete, opposite Salmone. 8 We moved along the coast with difficulty and came to a place called Fair Havens, near the town of Lasea.
+
+9 Much time had been lost, and sailing had already become dangerous because by now it was after the Day of Atonement.[a] So Paul warned them, 10 “Men, I can see that our voyage is going to be disastrous and bring great loss to ship and cargo, and to our own lives also.” 11 But the centurion, instead of listening to what Paul said, followed the advice of the pilot and of the owner of the ship. 12 Since the harbor was unsuitable to winter in, the majority decided that we should sail on, hoping to reach Phoenix and winter there. This was a harbor in Crete, facing both southwest and northwest.
+
+The Storm
+13 When a gentle south wind began to blow, they saw their opportunity; so they weighed anchor and sailed along the shore of Crete. 14 Before very long, a wind of hurricane force, called the Northeaster, swept down from the island. 15 The ship was caught by the storm and could not head into the wind; so we gave way to it and were driven along. 16 As we passed to the lee of a small island called Cauda, we were hardly able to make the lifeboat secure, 17 so the men hoisted it aboard. Then they passed ropes under the ship itself to hold it together. Because they were afraid they would run aground on the sandbars of Syrtis, they lowered the sea anchor[b] and let the ship be driven along. 18 We took such a violent battering from the storm that the next day they began to throw the cargo overboard. 19 On the third day, they threw the ship’s tackle overboard with their own hands. 20 When neither sun nor stars appeared for many days and the storm continued raging, we finally gave up all hope of being saved.
+
+21 After they had gone a long time without food, Paul stood up before them and said: “Men, you should have taken my advice not to sail from Crete; then you would have spared yourselves this damage and loss. 22 But now I urge you to keep up your courage, because not one of you will be lost; only the ship will be destroyed. 23 Last night an angel of the God to whom I belong and whom I serve stood beside me 24 and said, ‘Do not be afraid, Paul. You must stand trial before Caesar; and God has graciously given you the lives of all who sail with you.’ 25 So keep up your courage, men, for I have faith in God that it will happen just as he told me. 26 Nevertheless, we must run aground on some island.”
+
+The Shipwreck
+27 On the fourteenth night we were still being driven across the Adriatic[c] Sea, when about midnight the sailors sensed they were approaching land. 28 They took soundings and found that the water was a hundred and twenty feet[d] deep. A short time later they took soundings again and found it was ninety feet[e] deep. 29 Fearing that we would be dashed against the rocks, they dropped four anchors from the stern and prayed for daylight. 30 In an attempt to escape from the ship, the sailors let the lifeboat down into the sea, pretending they were going to lower some anchors from the bow. 31 Then Paul said to the centurion and the soldiers, “Unless these men stay with the ship, you cannot be saved.” 32 So the soldiers cut the ropes that held the lifeboat and let it drift away.
+
+33 Just before dawn Paul urged them all to eat. “For the last fourteen days,” he said, “you have been in constant suspense and have gone without food—you haven’t eaten anything. 34 Now I urge you to take some food. You need it to survive. Not one of you will lose a single hair from his head.” 35 After he said this, he took some bread and gave thanks to God in front of them all. Then he broke it and began to eat. 36 They were all encouraged and ate some food themselves. 37 Altogether there were 276 of us on board. 38 When they had eaten as much as they wanted, they lightened the ship by throwing the grain into the sea.
+
+39 When daylight came, they did not recognize the land, but they saw a bay with a sandy beach, where they decided to run the ship aground if they could. 40 Cutting loose the anchors, they left them in the sea and at the same time untied the ropes that held the rudders. Then they hoisted the foresail to the wind and made for the beach. 41 But the ship struck a sandbar and ran aground. The bow stuck fast and would not move, and the stern was broken to pieces by the pounding of the surf.
+
+42 The soldiers planned to kill the prisoners to prevent any of them from swimming away and escaping. 43 But the centurion wanted to spare Paul’s life and kept them from carrying out their plan. He ordered those who could swim to jump overboard first and get to land. 44 The rest were to get there on planks or on other pieces of the ship. In this way everyone reached land safely.
+
+
+  </p>
+</div>
+
+<div className={styles.card}>
+  <h2>
+  Paul Ashore on Malta
+  </h2>
+  <p>
+  
+28 Once safely on shore, we found out that the island was called Malta. 2 The islanders showed us unusual kindness. They built a fire and welcomed us all because it was raining and cold. 3 Paul gathered a pile of brushwood and, as he put it on the fire, a viper, driven out by the heat, fastened itself on his hand. 4 When the islanders saw the snake hanging from his hand, they said to each other, “This man must be a murderer; for though he escaped from the sea, the goddess Justice has not allowed him to live.” 5 But Paul shook the snake off into the fire and suffered no ill effects. 6 The people expected him to swell up or suddenly fall dead; but after waiting a long time and seeing nothing unusual happen to him, they changed their minds and said he was a god.
+
+7 There was an estate nearby that belonged to Publius, the chief official of the island. He welcomed us to his home and showed us generous hospitality for three days. 8 His father was sick in bed, suffering from fever and dysentery. Paul went in to see him and, after prayer, placed his hands on him and healed him. 9 When this had happened, the rest of the sick on the island came and were cured. 10 They honored us in many ways; and when we were ready to sail, they furnished us with the supplies we needed.
+
+Paul’s Arrival at Rome
+11 After three months we put out to sea in a ship that had wintered in the island—it was an Alexandrian ship with the figurehead of the twin gods Castor and Pollux. 12 We put in at Syracuse and stayed there three days. 13 From there we set sail and arrived at Rhegium. The next day the south wind came up, and on the following day we reached Puteoli. 14 There we found some brothers and sisters who invited us to spend a week with them. And so we came to Rome. 15 The brothers and sisters there had heard that we were coming, and they traveled as far as the Forum of Appius and the Three Taverns to meet us. At the sight of these people Paul thanked God and was encouraged. 16 When we got to Rome, Paul was allowed to live by himself, with a soldier to guard him.
+
+Paul Preaches at Rome Under Guard
+17 Three days later he called together the local Jewish leaders. When they had assembled, Paul said to them: “My brothers, although I have done nothing against our people or against the customs of our ancestors, I was arrested in Jerusalem and handed over to the Romans. 18 They examined me and wanted to release me, because I was not guilty of any crime deserving death. 19 The Jews objected, so I was compelled to make an appeal to Caesar. I certainly did not intend to bring any charge against my own people. 20 For this reason I have asked to see you and talk with you. It is because of the hope of Israel that I am bound with this chain.”
+
+21 They replied, “We have not received any letters from Judea concerning you, and none of our people who have come from there has reported or said anything bad about you. 22 But we want to hear what your views are, for we know that people everywhere are talking against this sect.”
+
+23 They arranged to meet Paul on a certain day, and came in even larger numbers to the place where he was staying. He witnessed to them from morning till evening, explaining about the kingdom of God, and from the Law of Moses and from the Prophets he tried to persuade them about Jesus. 24 Some were convinced by what he said, but others would not believe. 25 They disagreed among themselves and began to leave after Paul had made this final statement: “The Holy Spirit spoke the truth to your ancestors when he said through Isaiah the prophet:
+
+26 “‘Go to this people and say,
+“You will be ever hearing but never understanding;
+    you will be ever seeing but never perceiving.”
+27 For this people’s heart has become calloused;
+    they hardly hear with their ears,
+    and they have closed their eyes.
+Otherwise they might see with their eyes,
+    hear with their ears,
+    understand with their hearts
+and turn, and I would heal them.’[a]
+
+28 “Therefore I want you to know that God’s salvation has been sent to the Gentiles, and they will listen!” [29] [b]
+
+30 For two whole years Paul stayed there in his own rented house and welcomed all who came to see him. 31 He proclaimed the kingdom of God and taught about the Lord Jesus Christ—with all boldness and without hindrance!
+  </p>
+</div>
+
+<div className={styles.card}>
+  <h2>
+
+  </h2>
+  <p>
+    
+  </p>
+</div>
+
+<div className={styles.card}>
+  <h2>
+
+  </h2>
+  <p>
+    
+  </p>
+</div>
 </div>
 
       </main>
