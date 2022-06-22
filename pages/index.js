@@ -15,14 +15,20 @@ export default function Home() {
         <h1 className={styles.title}>
           The <a href="https://en.wikipedia.org/wiki/Acts_of_the_Apostles">Acts</a> of the Apostles
         </h1>
-
+       
+      
+        <p className={styles.code}>
+        <span className={styles.span}> &darr; Romans 1:16 &rarr; </span>
+          For I am not ashamed of the  gospel, because it is the power
+          of God that brings salvation to everyone who believes. First the Jew & then the Gentile
+        </p>
         <p className={styles.description}>
           Back to the {' '}
           <a href="https://the-holy-bible.vercel.app/"><code className={styles.code}>Gospels</code></a>
         </p>
 
         <div className={styles.grid}>
-          <a href="" className={styles.card}>
+          <div className={styles.card}>
             <h2>Jesus Taken Up Into Heaven &darr;</h2>
             <p>
 1 In my former book, Theophilus, I wrote about all that Jesus began to do and to teach 2 until the day he was taken up to heaven, after giving instructions through the Holy Spirit to the apostles he had chosen. 3 After his suffering, he presented himself to them and gave many convincing proofs that he was alive. He appeared to them over a period of forty days and spoke about the kingdom of God. 4 On one occasion, while he was eating with them, he gave them this command: “Do not leave Jerusalem, but wait for the gift my Father promised, which you have heard me speak about. 5 For John baptized with[a] water, but in a few days you will be baptized with[b] the Holy Spirit.”
@@ -56,9 +62,9 @@ and,
 23 So they nominated two men: Joseph called Barsabbas (also known as Justus) and Matthias. 24 Then they prayed, “Lord, you know everyone’s heart. Show us which of these two you have chosen 25 to take over this apostolic ministry, which Judas left to go where he belongs.” 26 Then they cast lots, and the lot fell to Matthias; so he was added to the eleven apostles.
 
 </p>
-          </a>
+          </div>
 
-          <a href="" className={styles.card}>
+          <div href="" className={styles.card}>
             <h2>The Holy Spirit Comes at Pentecost &darr;</h2>
             <p>
 2 When the day of Pentecost came, they were all together in one place. 2 Suddenly a sound like the blowing of a violent wind came from heaven and filled the whole house where they were sitting. 3 They saw what seemed to be tongues of fire that separated and came to rest on each of them. 4 All of them were filled with the Holy Spirit and began to speak in other tongues[a] as the Spirit enabled them.
@@ -118,9 +124,9 @@ The Fellowship of the Believers
 42 They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer. 43 Everyone was filled with awe at the many wonders and signs performed by the apostles. 44 All the believers were together and had everything in common. 45 They sold property and possessions to give to anyone who had need. 46 Every day they continued to meet together in the temple courts. They broke bread in their homes and ate together with glad and sincere hearts, 47 praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved.
 
 </p>
-          </a>
+          </div>
 
-          <a
+          <div
             href=""
             className={styles.card}
           >
@@ -136,9 +142,9 @@ Peter Speaks to the Onlookers
 17 “Now, fellow Israelites, I know that you acted in ignorance, as did your leaders. 18 But this is how God fulfilled what he had foretold through all the prophets, saying that his Messiah would suffer. 19 Repent, then, and turn to God, so that your sins may be wiped out, that times of refreshing may come from the Lord, 20 and that he may send the Messiah, who has been appointed for you—even Jesus. 21 Heaven must receive him until the time comes for God to restore everything, as he promised long ago through his holy prophets. 22 For Moses said, ‘The Lord your God will raise up for you a prophet like me from among your own people; you must listen to everything he tells you. 23 Anyone who does not listen to him will be completely cut off from their people.’[a]
 
 24 “Indeed, beginning with Samuel, all the prophets who have spoken have foretold these days. 25 And you are heirs of the prophets and of the covenant God made with your fathers. He said to Abraham, ‘Through your offspring all peoples on earth will be blessed.’[b] 26 When God raised up his servant, he sent him first to you to bless you by turning each of you from your wicked ways.”</p>
-          </a>
+          </div>
 
-          <a
+          <div
             href=""
             className={styles.card}
           >
@@ -183,9 +189,9 @@ The Believers Share Their Possessions
 
 
             </p>
-          </a>
+          </div>
 
-          <a
+          <div
             href=""
             className={styles.card}
           >
@@ -228,9 +234,9 @@ When the high priest and his associates arrived, they called together the Sanhed
 
 41 The apostles left the Sanhedrin, rejoicing because they had been counted worthy of suffering disgrace for the Name. 42 Day after day, in the temple courts and from house to house, they never stopped teaching and proclaiming the good news that Jesus is the Messiah.
             </p>
-          </a>
+          </div>
 
-          <a
+          <div
             href="https://www.biblegateway.com/passage/?search=Acts%206&version=NIV"
             className={styles.card}
           >
@@ -252,9 +258,9 @@ Stephen Seized
 
 15 All who were sitting in the Sanhedrin looked intently at Stephen, and they saw that his face was like the face of an angel.
             </p>
-          </a>
+          </div>
 
-          <a
+          <div
             href="https://www.biblegateway.com/passage/?search=Acts%207&version=NIV"
             className={styles.card}
           >
@@ -316,9 +322,9 @@ The Stoning of Stephen
 
 59 While they were stoning him, Stephen prayed, “Lord Jesus, receive my spirit.” 60 Then he fell on his knees and cried out, “Lord, do not hold this sin against them.” When he had said this, he fell asleep.
             </p>
-          </a>
+          </div>
 
-          <a
+          <div
             href="https://www.biblegateway.com/passage/?search=Acts%208&version=NIV"
             className={styles.card}
           >
@@ -365,9 +371,9 @@ Philip and the Ethiopian
 
 
             </p>
-          </a>
+          </div>
 
-          <a
+          <div
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
@@ -412,9 +418,9 @@ Aeneas and Dorcas
 
 40 Peter sent them all out of the room; then he got down on his knees and prayed. Turning toward the dead woman, he said, “Tabitha, get up.” She opened her eyes, and seeing Peter she sat up. 41 He took her by the hand and helped her to her feet. Then he called for the believers, especially the widows, and presented her to them alive. 42 This became known all over Joppa, and many people believed in the Lord. 43 Peter stayed in Joppa for some time with a tanner named Simon.
             </p>
-          </a>
+          </div>
 
-          <a
+          <div
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
@@ -461,9 +467,9 @@ The next day Peter started out with them, and some of the believers from Joppa w
 
 Then Peter said, 47 “Surely no one can stand in the way of their being baptized with water. They have received the Holy Spirit just as we have.” 48 So he ordered that they be baptized in the name of Jesus Christ. Then they asked Peter to stay with them for a few days.
             </p>
-          </a>
+          </div>
 
-          <a
+          <div
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
@@ -493,9 +499,9 @@ The Church in Antioch
 
 27 During this time some prophets came down from Jerusalem to Antioch. 28 One of them, named Agabus, stood up and through the Spirit predicted that a severe famine would spread over the entire Roman world. (This happened during the reign of Claudius.) 29 The disciples, as each one was able, decided to provide help for the brothers and sisters living in Judea. 30 This they did, sending their gift to the elders by Barnabas and Saul.
             </p>
-          </a>
+          </div>
 
-          <a
+          <div
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
@@ -530,9 +536,9 @@ Then Herod went from Judea to Caesarea and stayed there. 20 He had been quarreli
 Barnabas and Saul Sent Off
 25 When Barnabas and Saul had finished their mission, they returned from[a] Jerusalem, taking with them John, also called Mark.
             </p>
-          </a>
+          </div>
 
-          <a
+          <div
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
@@ -594,7 +600,7 @@ for I am going to do something in your days
 
 49 The word of the Lord spread through the whole region. 50 But the Jewish leaders incited the God-fearing women of high standing and the leading men of the city. They stirred up persecution against Paul and Barnabas, and expelled them from their region. 51 So they shook the dust off their feet as a warning to them and went to Iconium. 52 And the disciples were filled with joy and with the Holy Spirit.
             </p>
-          </a>
+          </div>
 <div className={styles.card}>
   <h2>In Iconium &darr;</h2>
   <p>

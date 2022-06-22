@@ -79,7 +79,7 @@
 
 .code {
     border-radius: 5px;
-    color: white;
+    color: black;
     background-image: url(/cloud_lightning.webp);
     padding: 3rem;
     font-size: 1.1rem;
@@ -88,8 +88,13 @@
 }
 
 .code:hover {
-    color: white;
-    text-shadow: 5px 5px black;
+    color: black;
+    text-shadow: 2px 2px orange;
+    opacity: 0.7;
+}
+
+.span {
+    font-size: x-large;
 }
 
 .nav ul li {
