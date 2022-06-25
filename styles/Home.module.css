@@ -47,12 +47,13 @@
 .title a {
     color: rgba(214, 123, 20, 0.993);
     text-decoration: none;
+    text-shadow: 1px 0.5px white;
 }
 
 .title a:hover,
 .title a:focus,
 .title a:active {
-    text-decoration: underline;
+    text-shadow: 2px 2px white;
 }
 
 .title {
@@ -80,6 +81,7 @@
 .code {
     border-radius: 5px;
     color: black;
+    text-shadow: 1px 1px white;
     background-image: url(/cloud_lightning.webp);
     padding: 3rem;
     font-size: 1.1rem;
@@ -89,8 +91,8 @@
 
 .code:hover {
     color: black;
-    text-shadow: 2px 2px orange;
-    opacity: 0.7;
+    text-shadow: 1.5px 1.5px whitesmoke;
+    opacity: 0.9;
 }
 
 .span {
@@ -146,7 +148,6 @@
 .card:focus,
 .card:active {
     color: black;
-    text-underline-position: above;
     border-color: hsl(212, 100%, 48%);
     background-image: url(/monophy.gif);
     background-repeat: no-repeat;
@@ -164,7 +165,7 @@
 }
 
 .card h2:hover {
-    text-decoration: underline;
+    text-shadow: 1px 1px white;
     color: black;
 }
 
@@ -176,13 +177,20 @@
 }
 
 .card p:hover {
-    text-decoration: underline;
+    text-shadow: 1px 1px white;
     font-weight: 900;
 }
 
 .logo {
     height: 1em;
     margin-left: 0.5rem;
+}
+
+.flex {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    display: flex;
+    justify-content: space-between;
 }
 
 .publisher {
