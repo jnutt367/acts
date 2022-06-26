@@ -29,12 +29,20 @@ export default function Home() {
 
         <h1 className={styles.title}>
          <a href="https://en.wikipedia.org/wiki/Acts_of_the_Apostles">Acts</a> 
-         <span className={styles.titleSpan}>of the </span>
-         Apostles
+         <span className={styles.titleSpan}>of the Apostles</span>
+         
        
         </h1>
-       <p>&darr; Scroll Down &darr;</p>
-      
+        <p className={styles.description}>
+          
+          <code className={styles.publisher}>The Acts of the Apostles</code>
+        </p>
+        <p className={styles.description}>
+          
+          <code className={styles.publisher}>&darr; Scroll Down &darr;</code>
+        </p>
+
+
         <p className={styles.h2}>
         <span className={styles.span}> &darr; Romans 1:16 &rarr; </span>
           For I am not ashamed of the  gospel, because it is the power

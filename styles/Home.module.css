@@ -72,6 +72,13 @@
 
 .titleSpan {
     font-size: large;
+    float: right;
+    padding: 2rem;
+    padding-right: 5rem;
+    text-shadow: 2px 2px white;
+    position: relative;
+    top: 2rem;
+    right: 25rem;
 }
 
 .title {
@@ -145,12 +152,12 @@
 
 .h2 {
     background-image: url(/cloud_lightning.webp);
-    text-shadow: .5px .5px wheat;
+    text-shadow: .5px .5px white;
     margin-top: 0rem;
     padding: 2rem;
     text-align: left;
     font-size: larger;
-    color: inherit;
+    color: black;
     text-decoration: none;
     transition: color 1s ease, border-color 0.15s ease;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -159,7 +166,7 @@
 .h2:hover {
     color: black;
     opacity: 0.7;
-    text-shadow: 1px 4px orange;
+    text-shadow: 1px 2px whitesmoke;
     border-color: hsl(184, 42%, 62%);
     text-decoration: dashed;
     width: 100%;
