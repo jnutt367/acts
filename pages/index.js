@@ -20,7 +20,7 @@ export default function Home() {
               alt="Jesus Logo"
             />
 
-            <button>
+            <button className={styles.donateButton}>
                 DONATE
             </button>
         </div>
@@ -28,11 +28,14 @@ export default function Home() {
     
 
         <h1 className={styles.title}>
-          The <a href="https://en.wikipedia.org/wiki/Acts_of_the_Apostles">Acts</a> of the Apostles
-        </h1>
+         <a href="https://en.wikipedia.org/wiki/Acts_of_the_Apostles">Acts</a> 
+         <span className={styles.titleSpan}>of the </span>
+         Apostles
        
+        </h1>
+       <p>&darr; Scroll Down &darr;</p>
       
-        <p className={styles.code}>
+        <p className={styles.h2}>
         <span className={styles.span}> &darr; Romans 1:16 &rarr; </span>
           For I am not ashamed of the  gospel, because it is the power
           of God that brings salvation to everyone who believes. First the Jew & then the Gentile

@@ -44,6 +44,16 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+.donateButton {
+    width: 200px;
+}
+
+.donateButton:hover {
+    background-image: url(/cloud_lightning.webp);
+    color: white;
+    cursor: pointer;
+}
+
 .title a {
     color: orange;
     text-decoration: none;
@@ -58,6 +68,10 @@
 .title a:active {
     text-shadow: 1px 1px white;
     opacity: 1;
+}
+
+.titleSpan {
+    font-size: large;
 }
 
 .title {
@@ -78,7 +92,7 @@
 .description {
     color: black;
     padding: 2rem;
-    margin: 4rem 0;
+    margin: 0rem 0;
     line-height: 1.5;
     font-size: 1rem;
     max-width: 60rem;
@@ -129,10 +143,29 @@
     max-width: 1400px;
 }
 
-.illustration {
-    padding-top: 3rem;
-    border-radius: 15px;
-    margin-right: 3rem;
+.h2 {
+    background-image: url(/cloud_lightning.webp);
+    text-shadow: .5px .5px wheat;
+    margin-top: 0rem;
+    padding: 2rem;
+    text-align: left;
+    font-size: larger;
+    color: inherit;
+    text-decoration: none;
+    transition: color 1s ease, border-color 0.15s ease;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.h2:hover {
+    color: black;
+    opacity: 0.7;
+    text-shadow: 1px 4px orange;
+    border-color: hsl(184, 42%, 62%);
+    text-decoration: dashed;
+    width: 100%;
+    background-image: url(/cloud_lightning.webp);
+    opacity: 0.85;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .card {
