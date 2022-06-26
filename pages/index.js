@@ -33,13 +33,10 @@ export default function Home() {
          
        
         </h1>
+      
         <p className={styles.description}>
           
-          <code className={styles.publisher}>The Acts of the Apostles</code>
-        </p>
-        <p className={styles.description}>
-          
-          <code className={styles.publisher}>&darr; Scroll Down &darr;</code>
+          <code className={styles.publisher}>&darr; --- &darr; --- &darr;</code>
         </p>
 
 

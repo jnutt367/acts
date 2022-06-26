@@ -1,7 +1,7 @@
 .container {
     padding: 0 2rem;
     background-image: url(/cloud_lightning.webp);
-    background-size: contain;
+    background-size: cover;
 }
 
 .main {
@@ -71,18 +71,19 @@
 }
 
 .titleSpan {
-    font-size: large;
+    font-size: x-large;
     float: right;
     padding: 2rem;
     padding-right: 5rem;
     text-shadow: 2px 2px white;
     position: relative;
     top: 2rem;
-    right: 25rem;
+    right: 12rem;
 }
 
 .title {
     background-image: url(/cloud_lightning.webp);
+    background-size: cover;
     margin: 2rem;
     line-height: 1.15;
     height: 10rem;
@@ -123,7 +124,9 @@
 }
 
 .span {
-    font-size: x-large;
+    font-size: xx-large;
+    color: #fafafa;
+    text-shadow: 1px 1px black;
 }
 
 .nav ul li {
@@ -152,14 +155,15 @@
 
 .h2 {
     background-image: url(/cloud_lightning.webp);
-    text-shadow: .5px .5px white;
+    background-size: cover;
+    text-shadow: 1px 1px black;
     margin-top: 0rem;
     padding: 2rem;
     text-align: left;
     font-size: larger;
-    color: black;
+    color: white;
     text-decoration: none;
-    transition: color 1s ease, border-color 0.15s ease;
+    transition: color .5s ease, border-color 0.15s ease;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
@@ -169,7 +173,6 @@
     text-shadow: 1px 2px whitesmoke;
     border-color: hsl(184, 42%, 62%);
     text-decoration: dashed;
-    width: 100%;
     background-image: url(/cloud_lightning.webp);
     opacity: 0.85;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -242,7 +245,7 @@
 .publisher {
     font-family: monospace;
     color: black;
-    font-size: 1.5rem;
+    font-size: 2.5rem;
 }
 
 @media (max-width: 600px) {
