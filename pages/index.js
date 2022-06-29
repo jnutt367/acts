@@ -20,6 +20,7 @@ export default function Home() {
               alt="Jesus Logo"
             />
 
+<a className={styles.code} href="https://the-holy-bible.vercel.app">HOME</a>
             <button className={styles.donateButton}>
                 DONATE
             </button>

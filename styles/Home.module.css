@@ -78,7 +78,7 @@
     text-shadow: 2px 2px white;
     position: relative;
     top: 2rem;
-    right: 12rem;
+    right: 9rem;
 }
 
 .title {
@@ -175,6 +175,7 @@
     text-decoration: dashed;
     background-image: url(/cloud_lightning.webp);
     opacity: 0.85;
+    font-size: x-large;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
