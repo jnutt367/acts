@@ -21,7 +21,7 @@ export default function Home() {
             />
 
 <a className={styles.code} href="https://the-holy-bible.vercel.app">HOME</a>
-            <button className={styles.donateButton}>
+            <button className={styles.code}>
                 DONATE
             </button>
         </div>
@@ -37,7 +37,7 @@ export default function Home() {
       
         <p className={styles.description}>
           
-          <code className={styles.publisher}>&darr; --- &darr; --- &darr;</code>
+          <code className={styles.publisher}>&darr; --- &darr; </code>
         </p>
 
 
