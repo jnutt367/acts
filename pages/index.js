@@ -30,7 +30,7 @@ export default function Home() {
 
         <h1 className={styles.title}>
          <a href="https://en.wikipedia.org/wiki/Acts_of_the_Apostles">Acts</a> 
-         <span className={styles.titleSpan}>of the Apostles</span>
+         
          
        
         </h1>
