@@ -127,8 +127,12 @@
 
 .span {
     font-size: xx-large;
-    color: #fafafa;
+    color: orange;
     text-shadow: 1px 1px black;
+}
+
+.span:hover {
+    color: black;
 }
 
 .nav ul li {
@@ -174,7 +178,7 @@
     text-shadow: 1px 2px whitesmoke;
     border-color: hsl(184, 42%, 62%);
     text-decoration: dashed;
-    background-image: url(/cloud_lightning.webp);
+    background-image: none;
     opacity: 0.85;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }

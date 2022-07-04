@@ -1111,7 +1111,11 @@ and turn, and I would heal them.’[a]
 
 
 </div>
-
+  <p className={styles.description}> 
+        <code className={styles.publisher}>
+        Coded, Published & Deployed by His servant: Jason Daniel Nutt 
+        </code>
+        </p>
       </main>
 
       <footer className={styles.footer}>
