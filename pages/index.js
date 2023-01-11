@@ -22,7 +22,7 @@ export default function Home() {
         </h1>
         <div className={styles.hero}>
        <Image 
-                                src="/acts.jfif"
+                                src="/acts-of-apostles.jpg"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
