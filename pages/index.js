@@ -15,14 +15,14 @@ export default function Home() {
     
 
         <h1 className={styles.title}>
-         <a href="https://en.wikipedia.org/wiki/Acts_of_the_Apostles">Acts</a> 
+         <a href="https://en.wikipedia.org/wiki/Acts_of_the_Apostles">The Book Of</a> 
          
          
        
         </h1>
         <div className={styles.hero}>
        <Image 
-                                src="/acts.jpg"
+                                src="/acts.jfif"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
