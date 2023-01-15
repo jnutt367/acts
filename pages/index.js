@@ -15,7 +15,7 @@ export default function Home() {
     
 
         <h1 className={styles.title}>
-        The Book Of
+       ACTS
          
          
        
