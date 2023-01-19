@@ -1,11 +1,12 @@
 .container {
     padding: 0 2rem;
-    background-color: #2d2d2d;
+    background-color: #C5B4E3;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .main {
-    background-color: silver;
+    background-color: #FFFDB777;
     background-size: contain;
     background-size: contain;
     min-height: 100vh;
@@ -16,6 +17,7 @@
     justify-content: center;
     align-items: center;
 }
+
 
 .footer {
     display: flex;
@@ -110,13 +112,22 @@
     font-size: 1rem;
     max-width: 60rem;
 }
-.button {
-    width:100%;
-    background-color: silver;
-    border-radius: 15px;
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
-
-
+.button {
+    color: white;
+    height: 30px;
+    width: 70px;
+    font-size: 7px;
+    background-color: #800080;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+}
 .button:hover {
      color: white;
     background-color: brown;
