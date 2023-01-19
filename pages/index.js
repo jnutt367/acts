@@ -28,7 +28,7 @@ export default function Home() {
                                 width={2000}
                                 priority
                               />
-            <div className={style.nav}>              
+            <div className={styles.nav}>              
         <a href="https://the-holy-bible.vercel.app/">
             <button className={styles.button}> HOME </button>
        </a>
