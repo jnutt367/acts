@@ -22,7 +22,7 @@ export default function Home() {
         </h1>
         <div className={styles.hero}>
        <Image 
-                                src="/ascension.jpg"
+                                src="/ascension-day-illustration-with-jesus-christ_23-2148545877 (1).webp"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
