@@ -73,7 +73,7 @@ export default function Home() {
                </div>
         <div className={styles.grid}>
           <div className={styles.card}>
-            <h2>Jesus Taken Up Into Heaven &darr;</h2>
+                 <h2  className={styles.chapter}>Acts Chapter I</h2>
             <p>
 1 In my former book, Theophilus, I wrote about all that Jesus began to do and to teach 2 until the day he was taken up to heaven, after giving instructions through the Holy Spirit to the apostles he had chosen. 3 After his suffering, he presented himself to them and gave many convincing proofs that he was alive. He appeared to them over a period of forty days and spoke about the kingdom of God. 4 On one occasion, while he was eating with them, he gave them this command: “Do not leave Jerusalem, but wait for the gift my Father promised, which you have heard me speak about. 5 For John baptized with[a] water, but in a few days you will be baptized with[b] the Holy Spirit.”
 
@@ -109,7 +109,7 @@ and,
           </div>
 
           <div href="" className={styles.card}>
-            <h2>The Holy Spirit Comes at Pentecost &darr;</h2>
+            <h2  className={styles.chapter}>Acts Chapter II</h2>
             <p>
 2 When the day of Pentecost came, they were all together in one place. 2 Suddenly a sound like the blowing of a violent wind came from heaven and filled the whole house where they were sitting. 3 They saw what seemed to be tongues of fire that separated and came to rest on each of them. 4 All of them were filled with the Holy Spirit and began to speak in other tongues[a] as the Spirit enabled them.
 
@@ -174,7 +174,7 @@ The Fellowship of the Believers
             href=""
             className={styles.card}
           >
-            <h2>Peter Heals a Lame Beggar &darr;</h2>
+            <h2  className={styles.chapter}>Acts Chapter III</h2>
             <p>
 3 One day Peter and John were going up to the temple at the time of prayer—at three in the afternoon. 2 Now a man who was lame from birth was being carried to the temple gate called Beautiful, where he was put every day to beg from those going into the temple courts. 3 When he saw Peter and John about to enter, he asked them for money. 4 Peter looked straight at him, as did John. Then Peter said, “Look at us!” 5 So the man gave them his attention, expecting to get something from them.
 
@@ -192,7 +192,7 @@ Peter Speaks to the Onlookers
             href=""
             className={styles.card}
           >
-            <h2> Peter and John Before the Sanhedrin &darr;</h2>
+            <h2  className={styles.chapter}>Acts Chapter IV</h2>
             <p>
            
 4 The priests and the captain of the temple guard and the Sadducees came up to Peter and John while they were speaking to the people. 2 They were greatly disturbed because the apostles were teaching the people, proclaiming in Jesus the resurrection of the dead. 3 They seized Peter and John and, because it was evening, they put them in jail until the next day. 4 But many who heard the message believed; so the number of men who believed grew to about five thousand.
@@ -239,7 +239,7 @@ The Believers Share Their Possessions
             href=""
             className={styles.card}
           >
-            <h2>Ananias and Sapphira &darr;</h2>
+            <h2  className={styles.chapter}>Acts Chapter V</h2>
             <p>
             
 5 Now a man named Ananias, together with his wife Sapphira, also sold a piece of property. 2 With his wife’s full knowledge he kept back part of the money for himself, but brought the rest and put it at the apostles’ feet.
@@ -284,7 +284,7 @@ When the high priest and his associates arrived, they called together the Sanhed
             href="https://www.biblegateway.com/passage/?search=Acts%206&version=NIV"
             className={styles.card}
           >
-            <h2>  The Choosing of the Seven &darr;</h2>
+            <h2  className={styles.chapter}>Acts Chapter VI</h2>
             <p>
           
 6 In those days when the number of disciples was increasing, the Hellenistic Jews[a] among them complained against the Hebraic Jews because their widows were being overlooked in the daily distribution of food. 2 So the Twelve gathered all the disciples together and said, “It would not be right for us to neglect the ministry of the word of God in order to wait on tables. 3 Brothers and sisters, choose seven men from among you who are known to be full of the Spirit and wisdom. We will turn this responsibility over to them 4 and will give our attention to prayer and the ministry of the word.”
@@ -308,7 +308,7 @@ Stephen Seized
             href="https://www.biblegateway.com/passage/?search=Acts%207&version=NIV"
             className={styles.card}
           >
-            <h2>Stephen’s Speech to the Sanhedrin &darr;</h2>
+            <h2  className={styles.chapter}>Acts Chapter VII</h2>
             <p>
          
 7 Then the high priest asked Stephen, “Are these charges true?”
@@ -372,7 +372,7 @@ The Stoning of Stephen
             href="https://www.biblegateway.com/passage/?search=Acts%208&version=NIV"
             className={styles.card}
           >
-            <h2>8 And Saul approved of their killing him. &darr;</h2>
+           <h2  className={styles.chapter}>Acts Chapter VIII</h2>
             <p>
             The Church Persecuted and Scattered
 On that day a great persecution broke out against the church in Jerusalem, and all except the apostles were scattered throughout Judea and Samaria. 2 Godly men buried Stephen and mourned deeply for him. 3 But Saul began to destroy the church. Going from house to house, he dragged off both men and women and put them in prison.
@@ -421,7 +421,7 @@ Philip and the Ethiopian
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h2>Saul’s Conversion &darr;</h2>
+           <h2  className={styles.chapter}>Acts Chapter IX</h2>
             <p>
            
 9 Meanwhile, Saul was still breathing out murderous threats against the Lord’s disciples. He went to the high priest 2 and asked him for letters to the synagogues in Damascus, so that if he found any there who belonged to the Way, whether men or women, he might take them as prisoners to Jerusalem. 3 As he neared Damascus on his journey, suddenly a light from heaven flashed around him. 4 He fell to the ground and heard a voice say to him, “Saul, Saul, why do you persecute me?”
@@ -468,7 +468,7 @@ Aeneas and Dorcas
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h2>Cornelius Calls for Peter &darr;</h2>
+           <h2  className={styles.chapter}>Acts Chapter X</h2>
             <p>
             
 10 At Caesarea there was a man named Cornelius, a centurion in what was known as the Italian Regiment. 2 He and all his family were devout and God-fearing; he gave generously to those in need and prayed to God regularly. 3 One day at about three in the afternoon he had a vision. He distinctly saw an angel of God, who came to him and said, “Cornelius!”
@@ -517,7 +517,7 @@ Then Peter said, 47 “Surely no one can stand in the way of their being baptize
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h2>Peter Explains His Actions &darr;</h2>
+            <h2  className={styles.chapter}>Acts Chapter XI</h2>
             <p>
             
 11 The apostles and the believers throughout Judea heard that the Gentiles also had received the word of God. 2 So when Peter went up to Jerusalem, the circumcised believers criticized him 3 and said, “You went into the house of uncircumcised men and ate with them.”
@@ -549,7 +549,7 @@ The Church in Antioch
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h2>Peter’s Miraculous Escape From Prison &darr;</h2>
+             <h2  className={styles.chapter}>Acts Chapter XII</h2>
             <p>
             
 12 It was about this time that King Herod arrested some who belonged to the church, intending to persecute them. 2 He had James, the brother of John, put to death with the sword. 3 When he saw that this met with approval among the Jews, he proceeded to seize Peter also. This happened during the Festival of Unleavened Bread. 4 After arresting him, he put him in prison, handing him over to be guarded by four squads of four soldiers each. Herod intended to bring him out for public trial after the Passover.
@@ -586,7 +586,7 @@ Barnabas and Saul Sent Off
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h2>Prophets and Teachers &darr;</h2>
+            <h2  className={styles.chapter}>Acts Chapter XIII</h2>
             <p>
             13 1 Now in the church at Antioch there were prophets and teachers: Barnabas, Simeon called Niger, Lucius of Cyrene, Manaen (who had been brought up with Herod the tetrarch) and Saul. 2 While they were worshiping the Lord and fasting, the Holy Spirit said, “Set apart for me Barnabas and Saul for the work to which I have called them.” 3 So after they had fasted and prayed, they placed their hands on them and sent them off.
 
@@ -646,7 +646,7 @@ for I am going to do something in your days
             </p>
           </div>
 <div className={styles.card}>
-  <h2>In Iconium &darr;</h2>
+  <h2  className={styles.chapter}>Acts Chapter XIV</h2>
   <p>
   
 14 At Iconium Paul and Barnabas went as usual into the Jewish synagogue. There they spoke so effectively that a great number of Jews and Greeks believed. 2 But the Jews who refused to believe stirred up the other Gentiles and poisoned their minds against the brothers. 3 So Paul and Barnabas spent considerable time there, speaking boldly for the Lord, who confirmed the message of his grace by enabling them to perform signs and wonders. 4 The people of the city were divided; some sided with the Jews, others with the apostles. 5 There was a plot afoot among both Gentiles and Jews, together with their leaders, to mistreat them and stone them. 6 But they found out about it and fled to the Lycaonian cities of Lystra and Derbe and to the surrounding country, 7 where they continued to preach the gospel.
@@ -667,9 +667,7 @@ The Return to Antioch in Syria
   </p>
 </div>
 <div className={styles.card}>
-  <h2>
-  The Council at Jerusalem &darr;
-  </h2>
+  <h2  className={styles.chapter}>Acts Chapter XV</h2>
 <p>
 
 15 Certain people came down from Judea to Antioch and were teaching the believers: “Unless you are circumcised, according to the custom taught by Moses, you cannot be saved.” 2 This brought Paul and Barnabas into sharp dispute and debate with them. So Paul and Barnabas were appointed, along with some other believers, to go up to Jerusalem to see the apostles and elders about this question. 3 The church sent them on their way, and as they traveled through Phoenicia and Samaria, they told how the Gentiles had been converted. This news made all the believers very glad. 4 When they came to Jerusalem, they were welcomed by the church and the apostles and elders, to whom they reported everything God had done through them.
@@ -711,7 +709,7 @@ Disagreement Between Paul and Barnabas
 </p>
 </div>
 <div className={styles.card}>
-  <h2>In Thessalonica &darr;</h2>
+   <h2  className={styles.chapter}>Acts Chapter XVI</h2>
   <p>
   
 17 When Paul and his companions had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a Jewish synagogue. 2 As was his custom, Paul went into the synagogue, and on three Sabbath days he reasoned with them from the Scriptures, 3 explaining and proving that the Messiah had to suffer and rise from the dead. “This Jesus I am proclaiming to you is the Messiah,” he said. 4 Some of the Jews were persuaded and joined Paul and Silas, as did a large number of God-fearing Greeks and quite a few prominent women.
@@ -739,7 +737,7 @@ In Athens
 </div>
 
 <div className={styles.card}>
-  <h2>In Corinth</h2>
+  <h2  className={styles.chapter}>Acts Chapter XVII</h2>
   <p>
   
 18 After this, Paul left Athens and went to Corinth. 2 There he met a Jew named Aquila, a native of Pontus, who had recently come from Italy with his wife Priscilla, because Claudius had ordered all Jews to leave Rome. Paul went to see them, 3 and because he was a tentmaker as they were, he stayed and worked with them. 4 Every Sabbath he reasoned in the synagogue, trying to persuade Jews and Greeks.
@@ -767,8 +765,7 @@ Priscilla, Aquila and Apollos
   </p>
 </div>
 <div className={styles.card}>
-  <h2>
-  Paul in Ephesus</h2>
+  <h2  className={styles.chapter}>Acts Chapter XVIII</h2>
   <p>
 19 While Apollos was at Corinth, Paul took the road through the interior and arrived at Ephesus. There he found some disciples 2 and asked them, “Did you receive the Holy Spirit when[a] you believed?”
 
@@ -806,9 +803,7 @@ The Riot in Ephesus
   </p>
 </div>
 <div className={styles.card}>
-  <h2>
-  Through Macedonia and Greece
-  </h2>
+ <h2  className={styles.chapter}>Acts Chapter XIX</h2>
   <p>
   
 20 When the uproar had ended, Paul sent for the disciples and, after encouraging them, said goodbye and set out for Macedonia. 2 He traveled through that area, speaking many words of encouragement to the people, and finally arrived in Greece, 3 where he stayed three months. Because some Jews had plotted against him just as he was about to sail for Syria, he decided to go back through Macedonia. 4 He was accompanied by Sopater son of Pyrrhus from Berea, Aristarchus and Secundus from Thessalonica, Gaius from Derbe, Timothy also, and Tychicus and Trophimus from the province of Asia. 5 These men went on ahead and waited for us at Troas. 6 But we sailed from Philippi after the Festival of Unleavened Bread, and five days later joined the others at Troas, where we stayed seven days.
@@ -832,9 +827,7 @@ Paul’s Farewell to the Ephesian Elders
 </div>
 
 <div className={styles.card}>
-  <h2>
-  On to Jerusalem
-  </h2>
+   <h2  className={styles.chapter}>Acts Chapter XX</h2>
   <p>
   
 21 After we had torn ourselves away from them, we put out to sea and sailed straight to Kos. The next day we went to Rhodes and from there to Patara. 2 We found a ship crossing over to Phoenicia, went on board and set sail. 3 After sighting Cyprus and passing to the south of it, we sailed on to Syria. We landed at Tyre, where our ship was to unload its cargo. 4 We sought out the disciples there and stayed with them seven days. Through the Spirit they urged Paul not to go on to Jerusalem. 5 When it was time to leave, we left and continued on our way. All of them, including wives and children, accompanied us out of the city, and there on the beach we knelt to pray. 6 After saying goodbye to each other, we went aboard the ship, and they returned home.
@@ -873,9 +866,7 @@ Paul Speaks to the Crowd
 </div>
 
 <div className={styles.card}>
-  <h2>
-  22 1 “Brothers and fathers, listen now to my defense.”
-  </h2>
+  <h2  className={styles.chapter}>Acts Chapter XXI</h2>
   <p>
   22 1 “Brothers and fathers, listen now to my defense.”
 
@@ -926,9 +917,7 @@ Paul Before the Sanhedrin
 </div>
 
 <div className={styles.card}>
-  <h2>
-  23 Paul looked straight at the Sanhedrin
-  </h2>
+  <h2  className={styles.chapter}>Acts Chapter XXII</h2>
   <p>
    and said, “My brothers, I have fulfilled my duty to God in all good conscience to this day.” 2 At this the high priest Ananias ordered those standing near Paul to strike him on the mouth. 3 Then Paul said to him, “God will strike you, you whitewashed wall! You sit there to judge me according to the law, yet you yourself violate the law by commanding that I be struck!”
 
@@ -975,9 +964,7 @@ Greetings.
 </div>
 
 <div className={styles.card}>
-  <h2>
-  Paul’s Trial Before Felix
-  </h2>
+ <h2  className={styles.chapter}>Acts Chapter XXIII</h2>
   <p>
   
 24 Five days later the high priest Ananias went down to Caesarea with some of the elders and a lawyer named Tertullus, and they brought their charges against Paul before the governor. 2 When Paul was called in, Tertullus presented his case before Felix: “We have enjoyed a long period of peace under you, and your foresight has brought about reforms in this nation. 3 Everywhere and in every way, most excellent Felix, we acknowledge this with profound gratitude. 4 But in order not to weary you further, I would request that you be kind enough to hear us briefly.
@@ -999,9 +986,7 @@ Greetings.
 </div>
 
 <div className={styles.card}>
-  <h2>
-  Paul’s Trial Before Festus
-  </h2>
+  <h2  className={styles.chapter}>Acts Chapter XXIX</h2>
   <p>
  
 25 Three days after arriving in the province, Festus went up from Caesarea to Jerusalem, 2 where the chief priests and the Jewish leaders appeared before him and presented the charges against Paul. 3 They requested Festus, as a favor to them, to have Paul transferred to Jerusalem, for they were preparing an ambush to kill him along the way. 4 Festus answered, “Paul is being held at Caesarea, and I myself am going there soon. 5 Let some of your leaders come with me, and if the man has done anything wrong, they can press charges against him there.”
@@ -1031,9 +1016,7 @@ Paul Before Agrippa
 </div>
 
 <div className={styles.card}>
-  <h2>
-  “You have permission to speak for yourself.”
-  </h2>
+  <h2  className={styles.chapter}>Acts Chapter XXX</h2>>
   <p>
   26 Then Agrippa said to Paul, “You have permission to speak for yourself.”
 
@@ -1066,9 +1049,7 @@ So Paul motioned with his hand and began his defense: 2 “King Agrippa, I consi
 </div>
 
 <div className={styles.card}>
-  <h2>
-  Paul Sails for Rome
-  </h2>
+  <h2  className={styles.chapter}>Acts Chapter XXXI</h2>
   <p>
  
 27 When it was decided that we would sail for Italy, Paul and some other prisoners were handed over to a centurion named Julius, who belonged to the Imperial Regiment. 2 We boarded a ship from Adramyttium about to sail for ports along the coast of the province of Asia, and we put out to sea. Aristarchus, a Macedonian from Thessalonica, was with us.
@@ -1096,9 +1077,7 @@ The Shipwreck
 </div>
 
 <div className={styles.card}>
-  <h2>
-  Paul Ashore on Malta
-  </h2>
+  <h2  className={styles.chapter}>Acts Chapter XXXII</h2>
   <p>
   
 28 Once safely on shore, we found out that the island was called Malta. 2 The islanders showed us unusual kindness. They built a fire and welcomed us all because it was raining and cold. 3 Paul gathered a pile of brushwood and, as he put it on the fire, a viper, driven out by the heat, fastened itself on his hand. 4 When the islanders saw the snake hanging from his hand, they said to each other, “This man must be a murderer; for though he escaped from the sea, the goddess Justice has not allowed him to live.” 5 But Paul shook the snake off into the fire and suffered no ill effects. 6 The people expected him to swell up or suddenly fall dead; but after waiting a long time and seeing nothing unusual happen to him, they changed their minds and said he was a god.
