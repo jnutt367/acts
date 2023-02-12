@@ -229,12 +229,15 @@
 }
 
 .card {
-    background-image: url(/haga-clic-aquí-botón.webp);
-    background-size: cover;
+    background-image: url(/depositphotos_211313724-stock-photo-read-icon-read-website-button.jpg);
+    background-size:contain;
+    display: grid;
+    place-items: center;
     background-repeat: no-repeat;
     color: transparent;
     background-color: white;
     margin: 1.5rem;
+    margin-bottom: 5rem;
     padding: 1.5rem;
     text-align: left;
     max-height: 400px;
@@ -246,7 +249,17 @@
     max-width: 400px;
     font-family: monospace;
 }
-
+.chapter {
+    color: black;
+    position: relative; 
+    z-index: 1;
+    text-align: center;
+    top: -30px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+}
 .card:hover,
 .card:focus,
 .card:active {
@@ -337,11 +350,6 @@
     .flex {
         display: grid;
     }
-    .card {
-       margin: 0;
-       margin-top: 5rem;
-       max-width: 100%;
-    }
     .image {
         padding: 0;
     }
@@ -359,5 +367,9 @@
     }
     .title  {
     font-size: 36px;
+    }
+    .card {
+        margin-right: 0;
+        margin-left: 0;
     }
 }
