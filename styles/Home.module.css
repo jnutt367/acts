@@ -71,7 +71,7 @@
 
 
 .image {
-    background-image: url(istockphoto-1300398224-612x612.jpg);
+    background-image: url(/istockphoto-1300398224-612x612.jpg);
     margin-top: -50px;
     padding-left: 100px;
     padding-right: 100px;
@@ -270,7 +270,7 @@
 }
 
 .card {
-    background-image: url(/FlusteredLeafyAllosaurus-max-1mb.gif);
+    background-image: url(/cross-hands-god-jesus-religion-faith-pray-prayer-christian.jpg);
     background-size:contain;
     display: grid;
     place-items: center;
