@@ -71,6 +71,7 @@ export default function Home() {
         </a> 
          
                </div>
+    <p className={styles.fund}>"Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit."</p>
         <div className={styles.grid}>
           <div className={styles.card}>
                  <h2  className={styles.chapter}>Acts Chapter I</h2>
