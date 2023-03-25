@@ -31,7 +31,7 @@ export default function Home() {
         </h1>
                 <div className={styles.image}>
            <Image 
-                                    src="/ascension-day-illustration-with-jesus-christ_23-2148545877 (1).webp"
+                                    src="/jesus-gif-17.gif"
                                     alt="Jesus teaching"
                                     height={900}
                                     width={2000}
@@ -71,7 +71,7 @@ export default function Home() {
         </a> 
          
                </div>
-    <p className={styles.fund}>"Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit."</p>
+    <p className={styles.fund}>(Acts 1:9) "After he said this, he was taken up before their very eyes, and a cloud hid him from their sight."</p>
         <div className={styles.grid}>
           <div className={styles.card}>
                  <h2  className={styles.chapter}>Acts Chapter I</h2>
