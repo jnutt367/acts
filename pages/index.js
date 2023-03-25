@@ -31,7 +31,7 @@ export default function Home() {
         </h1>
                 <div className={styles.image}>
            <Image 
-                                    src="/jesus-dios.gif"
+                                    src="/jesus-sky (1).gif"
                                     alt="Jesus teaching"
                                     height={900}
                                     width={2000}
