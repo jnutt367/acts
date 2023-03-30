@@ -43,8 +43,8 @@ export default function Home() {
              <Image 
                                 src="/chevron-left.svg"
                                 alt="Jesus"
-                                 height={25}
-                                width={25}
+                                 height={75}
+                                width={75}
                                 priority
                               />
        </a>
@@ -59,8 +59,8 @@ export default function Home() {
            <Image 
                                 src="/chevron-right.svg"
                                 alt="Jesus"
-                                 height={25}
-                                width={25}
+                                 height={75}
+                                width={75}
                                 priority
                               />
            
