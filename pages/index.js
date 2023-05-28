@@ -31,7 +31,7 @@ export default function Home() {
         </h1>
                 <div className={styles.image}>
            <Image 
-                                    src="/acts.jpeg"
+                                    src="/the-making-of-men-on-mission-wordle.jpeg"
                                     alt="Jesus teaching"
                                     height={900}
                                     width={2000}
