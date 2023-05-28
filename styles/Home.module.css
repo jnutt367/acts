@@ -60,7 +60,8 @@
 }
 */
 .main {
-  background-color:  black;
+  background-color: white;  
+  color: black;  
   min-height: 100vh;  
   padding: 4rem 0;  
   position:relative;
@@ -124,6 +125,7 @@
     align-items: center;
 }
 .hero {
+  background-color: white;  
   position:relative;
   top: -105px;
 }
@@ -187,9 +189,9 @@
 
 
 .title {
-  color: white;
+  color: black;
   position: sticky; 
-  background-color: black;
+  background-color: white;  
   opacity: 0.95;
   padding-top: 40px;
   z-index: 2;
@@ -251,7 +253,7 @@
 }
 
 .nav {
-    background-color: #800808;
+    background-color: skyblue;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -273,7 +275,7 @@
 }
 
 .grid {
-    background-color:#800808;
+    background-color: skyblue;
     color: white;
     display: flex;
     align-items: center;
@@ -331,7 +333,7 @@
     font-family: monospace;
 }
 .chapter {
-    background-color: black;
+    background-color: skyblue;
     color: white;
     opacity: 1;
     position: sticky;
