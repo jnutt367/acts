@@ -6,7 +6,7 @@
 }
 */
 .container {
-  background-color: white;  
+  background-color: black;  
   width: 100%;
   display: grid;
   align-items: center;
@@ -18,8 +18,8 @@
 
 
 .holy {
-  backgroud-color: silver;
-  color: black;
+  backgroud-color: black;
+  color: white;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   z-index:10;
@@ -37,7 +37,8 @@
   z-index: 10;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
-  color: black;
+  backgroud-color: black;
+  color: white;
   font-size: 52px;
   padding-left: 5px;
   display: grid;
@@ -60,8 +61,8 @@
 }
 */
 .main {
-  background-color: white;  
-  color: black;  
+  backgroud-color: black;
+  color: white;  
   min-height: 100vh;  
   padding: 4rem 0;  
   position:relative;
@@ -72,7 +73,7 @@
 }
 .fund {
    text-align: center;
-    color: black;
+    color: white;
     position: relative;
     padding-right: 20px;
     padding-left: 20px;
@@ -85,7 +86,7 @@
 .image {
     /*background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);*/
     text-align: center;
-    background-color: white;
+    background-color: black;
     opacity: 0.5;
     margin-top: -50px;
     padding-left: 100px;
@@ -125,7 +126,8 @@
     align-items: center;
 }
 .hero {
-  background-color: white;  
+  backgroud-color: black;
+  color: white; 
   position:relative;
   top: -105px;
 }
@@ -189,7 +191,8 @@
 
 
 .title {
-  color: black;
+  backgroud-color: black;
+  color: white;
   position: sticky; 
   background-color: white;  
   opacity: 0.95;
