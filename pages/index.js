@@ -31,13 +31,13 @@ export default function Home() {
         </h1>
                 <div className={styles.image}>
            <Image 
-                                    src="/jesus-sky (1).gif"
+                                    src="/acts.jpeg"
                                     alt="Jesus teaching"
                                     height={900}
                                     width={2000}
                                     priority
                                   />
-                             <iframe width="100%" height="175" src="https://www.youtube.com/embed/zr54VtQNbgg?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>          
+                          <iframe width="100%" height="315" src="https://www.youtube.com/embed/CGbNw855ksw" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>          
                 </div>                      
                <div className={styles.nav}>           
       <a href="https://john-zeta.vercel.app/">
