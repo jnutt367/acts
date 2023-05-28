@@ -193,8 +193,7 @@
 .title {
   background-color: black;
   color: white;
-  position: sticky; 
-  background-color: white;  
+  position: sticky;
   opacity: 0.95;
   padding-top: 40px;
   z-index: 2;
