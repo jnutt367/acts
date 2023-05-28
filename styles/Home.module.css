@@ -334,7 +334,7 @@
 }
 .chapter {
     background-color: skyblue;
-    color: white;
+    color: black;
     opacity: 1;
     position: sticky;
     z-index: 1;
