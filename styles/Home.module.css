@@ -311,6 +311,8 @@
 .card {
     background-image: url(/the-making-of-men-on-mission-wordle.jpeg);
     background-color: black;
+    border-radius: 15px 50px 30px;
+    box-shadow: lightblue 0px 5px 15px;
     background-repeat: no-repeat;
     background-position: center;
     background-position-x: center;
