@@ -37,7 +37,7 @@ export default function Home() {
                                     width={2000}
                                     priority
                                   />
-                          <iframe width="100%" height="315" src="https://www.youtube.com/embed/CGbNw855ksw" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>          
+                                 
                 </div>                      
                <div className={styles.nav}>           
       <a href="https://john-zeta.vercel.app/">
@@ -71,6 +71,7 @@ export default function Home() {
         </a> 
          
                </div>
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/CGbNw855ksw" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
     <p className={styles.fund}>(Acts 1:9) "After he said this, he was taken up before their very eyes, and a cloud hid him from their sight."</p>
         <div className={styles.grid}>
           <div className={styles.card}>
