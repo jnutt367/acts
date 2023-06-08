@@ -86,7 +86,7 @@
 }
 
 .image {
-    /*background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
+    /*background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);*/
     text-align: center;
     background-color: black;
     opacity: 0.5;
@@ -99,18 +99,8 @@
     justify-content: center;
     max-height: 900px; 
     alig-items: center;
-    opacity: 1;*/
-    background-size: cover;
-    background-repeat: no-repeat;
-    padding-left: 100px;
-    padding-right: 100px;
-    top: -300px;
-    display: grid;
-    place-items: center;
-    max-height: 900px; 
-    border: 50px 0 10px solid #5D3FD3;
-    opacity: 0.8;
-    margin-bottom: 25px;
+    opacity: 1;
+   
 }
 .donate {
   background-color:white;
@@ -267,7 +257,7 @@
     color: white;
 }
 
-/*.nav {
+.nav {
     background-color: skyblue;
     opacity: 1;
     padding: 5px;
@@ -277,18 +267,7 @@
     position: sticky;
   
     
-}  */
-.nav {
-    top: -200px;
-    background-color: black;
-    border: 2px solid  #bf9b30;
-    opacity: 1;
-    padding: 5px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    position: relative;
-}
+} 
 .button {
     color: white;
     height: 30px;
@@ -461,8 +440,8 @@
 
 @media (min-width: 1080px) {
          .image {
-        padding-left: 300px;
-        padding-right: 300px;     
+        padding-left: 325px;
+        padding-right: 325px;     
     }
     
            .grid {
@@ -470,8 +449,8 @@
         
     }
       .iframe {
-         padding-left: 25px;
-         padding-right: 25px;    
+         padding-left: 325px;
+         padding-right: 325px;    
   }
     
 }
