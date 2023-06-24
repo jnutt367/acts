@@ -31,8 +31,8 @@ export default function Home() {
         </h1>
                 <div className={styles.image}>
            <Image 
-                                    src="/the-making-of-men-on-mission-wordle.jpeg"
-                                    alt="Jesus teaching"
+                                    src="/risen_15.png"
+                                    alt="Jesus rising"
                                     height={900}
                                     width={2000}
                                     priority
