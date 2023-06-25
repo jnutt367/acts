@@ -271,7 +271,7 @@
 }
 
 .nav {
-    background-color:#87ceeb;
+    background-color:#CC8899;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -293,7 +293,7 @@
 }
 
 .grid {
-    background-color:#87ceeb;
+     background-color:#CC8899
     color: black;
     display: flex;
     align-items: center;
@@ -353,8 +353,8 @@
     box-shadow: lightblue 0px 5px 15px;
 }
 .chapter {
-    background-color:#87ceeb;
-    color: white;
+    background-color:#CC8899
+    color: black;
     opacity: 0.8;
     opacity: 1;
     position: sticky;
