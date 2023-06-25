@@ -31,7 +31,7 @@ export default function Home() {
         </h1>
                 <div className={styles.image}>
            <Image 
-                                    src="/risen_14.png"
+                                    src="/risen_acts.png"
                                     alt="Jesus rising"
                                     height={900}
                                     width={2000}
