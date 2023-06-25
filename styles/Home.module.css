@@ -293,7 +293,7 @@
 }
 
 .grid {
-     background-color:#CC8899
+     background-color:#CC8899;
     color: black;
     display: flex;
     align-items: center;
