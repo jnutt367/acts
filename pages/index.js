@@ -38,7 +38,10 @@ export default function Home() {
                                     priority
                                   />
                                  
-                </div>                      
+                </div>    
+<p className={styles.parables}>
+      Acts is the true story of how the Christian church began & started to grow and operate. And, how they were treated by the local & Roman governments.                                   
+</p>                                      
                <div className={styles.nav}>           
       <a href="https://john-zeta.vercel.app/">
              <Image 
