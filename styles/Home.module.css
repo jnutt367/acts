@@ -282,6 +282,7 @@
 .nav a:hover {
     scale: 1.2;
     border: 2px dotted whitesmoke;
+    border-radius: 50%;
 }
 .button {
     color: white;
