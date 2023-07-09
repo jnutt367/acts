@@ -55,7 +55,7 @@ export default function Home() {
 
        <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
              <Image 
-                                src="/upward_pointing.png"
+                                src="/upward_pointing.webp"
                                 alt="home"
                                  height={75}
                                 width={90}
