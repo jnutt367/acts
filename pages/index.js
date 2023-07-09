@@ -45,29 +45,29 @@ export default function Home() {
                <div className={styles.nav}>           
       <a href="https://john-zeta.vercel.app/">
              <Image 
-                                src="/chevron-left.svg"
-                                alt="Jesus"
+                                src="/previous.webp"
+                                alt="previous"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
        </a>
 
        <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
              <Image 
-                                src="/youtube-logo-png-hd-21.png"
-                                alt="youtube-icon"
+                                src="/upward_pointing.png"
+                                alt="home"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
        </a>
          <a href="https://romans-five.vercel.app/">
            <Image 
-                                src="/chevron-right.svg"
-                                alt="Jesus"
+                                src="/next.webp"
+                                alt="next"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
            
