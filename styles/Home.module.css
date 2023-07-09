@@ -218,7 +218,7 @@
   padding-top: 40px;
   z-index: 2;
   top: -30px;
-  margin-top: -135px;
+  margin-top: -120px;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   font-size: 64px;
 }
@@ -325,7 +325,7 @@
 }
 
 .card {
-    background-image: url(/risen_20.png);
+    background-image: url(/acts2.png);
     background-repeat: no-repeat;
     background-position: center;
     background-position-x: center;
