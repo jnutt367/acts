@@ -75,7 +75,7 @@ export default function Home() {
          
                </div>
     <div className={styles.iframe}>
-        <iframe width="100%" height="315" src="https://www.youtube.com/embed/CGbNw855ksw" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/CGbNw855ksw?autoplay=1&mute=1" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
     </div>    
 <p className={styles.fund}>(Acts 1:9) "After he said this, he was taken up before their very eyes, and a cloud hid him from their sight."</p>
         <div className={styles.grid}>
@@ -1120,26 +1120,12 @@ and turn, and I would heal them.’[a]
 
 
 </div>
-</div>
-  <p className={styles.description}> 
-        <code className={styles.publisher}>
-        Coded, Published & Deployed by His servant: Jason Daniel Nutt 
-        </code>
-        </p>
+
+  <iframe width="100%" height="600" src="https://www.youtube.com/embed/Z-17KxpjL0Q?autoplay&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+ 
       </main>
 
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
-          </span>
-        </a>
-      </footer>
+    
     </div>
   )
 }
