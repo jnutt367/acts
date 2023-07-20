@@ -22,10 +22,12 @@ export default function Home() {
      
         <div className={styles.hero}>
              <h2 className={styles.holy}>THE WORD</h2>
-                <h1 className={styles.bible}>
+                
+    <a href="https://the-word-of-god.vercel.app/">
+    <h1 className={styles.bible}>
                     OF GOD
                 </h1>
-        
+    </a>    
         <h1 className={styles.title}>
          ACTS
         </h1>
