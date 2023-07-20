@@ -55,9 +55,9 @@ export default function Home() {
                               />
        </a>
 
-       <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
+       <a href="https://cash.app/$JNutt367">
              <Image 
-                                src="/upward_pointing.webp"
+                                src="/donations_please.webp"
                                 alt="home"
                                  height={75}
                                 width={90}
