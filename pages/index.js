@@ -1139,8 +1139,8 @@ and turn, and I would heal them.’[a]
         </h1>
           <div className={styles.image}>
                            <Image 
-                                                    src="/philemon.png"
-                                                    alt="hero image for Thessalonians"
+                                                    src="/jesus_is_light.png"
+                                                    alt="hero image for Hebrews"
                                                     height={900}
                                                     width={2000}
                                                     priority
