@@ -1285,9 +1285,38 @@ And again he says,
   </p>
           </div>
 
-        
-       
-          <div className={styles.card2}
+             <div className={styles.card2}>
+                       <h2  className={styles.chapter2}>Hebrews Chapter III</h2>
+                        <p> 
+                                                        Jesus Greater Than Moses
+                                                3 Therefore, holy brothers and sisters, who share in the heavenly calling, fix your thoughts on Jesus, whom we acknowledge as our apostle and high priest. 2 He was faithful to the one who appointed him, just as Moses was faithful in all God’s house. 3 Jesus has been found worthy of greater honor than Moses, just as the builder of a house has greater honor than the house itself. 4 For every house is built by someone, but God is the builder of everything. 5 “Moses was faithful as a servant in all God’s house,”[a] bearing witness to what would be spoken by God in the future. 6 But Christ is faithful as the Son over God’s house. And we are his house, if indeed we hold firmly to our confidence and the hope in which we glory.
+                                                
+                                                Warning Against Unbelief
+                                                7 So, as the Holy Spirit says:
+                                                
+                                                “Today, if you hear his voice,
+                                                8     do not harden your hearts
+                                                as you did in the rebellion,
+                                                    during the time of testing in the wilderness,
+                                                9 where your ancestors tested and tried me,
+                                                    though for forty years they saw what I did.
+                                                10 That is why I was angry with that generation;
+                                                    I said, ‘Their hearts are always going astray,
+                                                    and they have not known my ways.’
+                                                11 So I declared on oath in my anger,
+                                                    ‘They shall never enter my rest.’ ”[b]
+                                                
+                                                12 See to it, brothers and sisters, that none of you has a sinful, unbelieving heart that turns away from the living God. 13 But encourage one another daily, as long as it is called “Today,” so that none of you may be hardened by sin’s deceitfulness. 14 We have come to share in Christ, if indeed we hold our original conviction firmly to the very end. 15 As has just been said:
+                                                
+                                                “Today, if you hear his voice,
+                                                    do not harden your hearts
+                                                    as you did in the rebellion.”[c]
+                                                
+                                                16 Who were they who heard and rebelled? Were they not all those Moses led out of Egypt? 17 And with whom was he angry for forty years? Was it not with those who sinned, whose bodies perished in the wilderness? 18 And to whom did God swear that they would never enter his rest if not to those who disobeyed? 19 So we see that they were not able to enter, because of their unbelief.       
+                                                          </p>
+                      </div>  
+  
+  <div className={styles.card2}
           >
             <h2 className={styles.chapter2}>!Explaination of Layout!</h2>
             <p>
