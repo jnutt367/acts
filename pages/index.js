@@ -1195,10 +1195,11 @@ and turn, and I would heal them.’[a]
            <h2  className={styles.chapter2}>Hebrews Chapter I</h2>
             <p> 
 
-God’s Final Word: His Son
+<h4>God’s Final Word: His Son</h4>
 1 In the past God spoke to our ancestors through the prophets at many times and in various ways, 2 but in these last days he has spoken to us by his Son, whom he appointed heir of all things, and through whom also he made the universe. 3 The Son is the radiance of God’s glory and the exact representation of his being, sustaining all things by his powerful word. After he had provided purification for sins, he sat down at the right hand of the Majesty in heaven. 4 So he became as much superior to the angels as the name he has inherited is superior to theirs.
 
-The Son Superior to Angels
+<h4>The Son Superior to Angels</h4>
+  
 5 For to which of the angels did God ever say,
 
 “You are my Son;
@@ -1251,11 +1252,12 @@ But you remain the same,
           <div className={styles.card2}>
             <h2 className={styles.chapter2}>Hebrews Chapter II</h2>
             <p> 
-
-Warning to Pay Attention
+   <h4> Warning to Pay Attention</h4>
+      
 2 We must pay the most careful attention, therefore, to what we have heard, so that we do not drift away. 2 For since the message spoken through angels was binding, and every violation and disobedience received its just punishment, 3 how shall we escape if we ignore so great a salvation? This salvation, which was first announced by the Lord, was confirmed to us by those who heard him. 4 God also testified to it by signs, wonders and various miracles, and by gifts of the Holy Spirit distributed according to his will.
 
-Jesus Made Fully Human
+<h4>Jesus Made Fully Human</h4>
+
 5 It is not to angels that he has subjected the world to come, about which we are speaking. 6 But there is a place where someone has testified:
 
 “What is mankind that you are mindful of them,
@@ -1288,7 +1290,7 @@ And again he says,
              <div className={styles.card2}>
                        <h2  className={styles.chapter2}>Hebrews Chapter III</h2>
                         <p> 
-                                                        Jesus Greater Than Moses
+                                                        <h4> Jesus Greater Than Moses</h4>
                                                 3 Therefore, holy brothers and sisters, who share in the heavenly calling, fix your thoughts on Jesus, whom we acknowledge as our apostle and high priest. 2 He was faithful to the one who appointed him, just as Moses was faithful in all God’s house. 3 Jesus has been found worthy of greater honor than Moses, just as the builder of a house has greater honor than the house itself. 4 For every house is built by someone, but God is the builder of everything. 5 “Moses was faithful as a servant in all God’s house,”[a] bearing witness to what would be spoken by God in the future. 6 But Christ is faithful as the Son over God’s house. And we are his house, if indeed we hold firmly to our confidence and the hope in which we glory.
                                                 
                                                 Warning Against Unbelief
@@ -1343,7 +1345,152 @@ And again he says,
                                         </p>
                       </div>                          
 
+                                     <div className={styles.card2}>
+                                             <h2  className={styles.chapter2}>Hebrews Chapter V</h2>
+                                              <p> 
+                                                       <h4>God's Appointed High Priest</h4>
+                                                  5 Every high priest is selected from among the people and is appointed to represent the people in matters related to God, to offer gifts and sacrifices for sins. 2 He is able to deal gently with those who are ignorant and are going astray, since he himself is subject to weakness. 3 This is why he has to offer sacrifices for his own sins, as well as for the sins of the people. 4 And no one takes this honor on himself, but he receives it when called by God, just as Aaron was.
 
+5 In the same way, Christ did not take on himself the glory of becoming a high priest. But God said to him,
+
+“You are my Son;
+    today I have become your Father.”[a]
+
+6 And he says in another place,
+
+“You are a priest forever,
+    in the order of Melchizedek.”[b]
+
+7 During the days of Jesus’ life on earth, he offered up prayers and petitions with fervent cries and tears to the one who could save him from death, and he was heard because of his reverent submission. 8 Son though he was, he learned obedience from what he suffered 9 and, once made perfect, he became the source of eternal salvation for all who obey him 10 and was designated by God to be high priest in the order of Melchizedek.
+
+Warning Against Falling Away
+11 We have much to say about this, but it is hard to make it clear to you because you no longer try to understand. 12 In fact, though by this time you ought to be teachers, you need someone to teach you the elementary truths of God’s word all over again. You need milk, not solid food! 13 Anyone who lives on milk, being still an infant, is not acquainted with the teaching about righteousness. 14 But solid food is for the mature, who by constant use have trained themselves to distinguish good from evil.
+
+
+                                    </p> 
+                                    </div>
+
+                                     <div className={styles.card2}>
+                                             <h2  className={styles.chapter2}>Hebrews Chapter VI</h2>
+                                              <p> 
+                                                                                                            6 Therefore let us move beyond the elementary teachings about Christ and be taken forward to maturity, not laying again the foundation of repentance from acts that lead to death,[a] and of faith in God, 2 instruction about cleansing rites,[b] the laying on of hands, the resurrection of the dead, and eternal judgment. 3 And God permitting, we will do so.
+                                                        
+                                                        4 It is impossible for those who have once been enlightened, who have tasted the heavenly gift, who have shared in the Holy Spirit, 5 who have tasted the goodness of the word of God and the powers of the coming age 6 and who have fallen[c] away, to be brought back to repentance. To their loss they are crucifying the Son of God all over again and subjecting him to public disgrace. 7 Land that drinks in the rain often falling on it and that produces a crop useful to those for whom it is farmed receives the blessing of God. 8 But land that produces thorns and thistles is worthless and is in danger of being cursed. In the end it will be burned.
+                                                        
+                                                        9 Even though we speak like this, dear friends, we are convinced of better things in your case—the things that have to do with salvation. 10 God is not unjust; he will not forget your work and the love you have shown him as you have helped his people and continue to help them. 11 We want each of you to show this same diligence to the very end, so that what you hope for may be fully realized. 12 We do not want you to become lazy, but to imitate those who through faith and patience inherit what has been promised.
+                                                        
+                                                        The Certainty of God’s Promise
+                                                        13 When God made his promise to Abraham, since there was no one greater for him to swear by, he swore by himself, 14 saying, “I will surely bless you and give you many descendants.”[d] 15 And so after waiting patiently, Abraham received what was promised.
+                                                        
+                                                        16 People swear by someone greater than themselves, and the oath confirms what is said and puts an end to all argument. 17 Because God wanted to make the unchanging nature of his purpose very clear to the heirs of what was promised, he confirmed it with an oath. 18 God did this so that, by two unchangeable things in which it is impossible for God to lie, we who have fled to take hold of the hope set before us may be greatly encouraged. 19 We have this hope as an anchor for the soul, firm and secure. It enters the inner sanctuary behind the curtain, 20 where our forerunner, Jesus, has entered on our behalf. He has become a high priest forever, in the order of Melchizedek.
+
+  
+
+
+                                    </p> 
+                                    </div>
+
+
+                                     <div className={styles.card2}>
+                                             <h2  className={styles.chapter2}>Hebrews Chapter VII</h2>
+                                              <p> 
+                                                       <h4>Melchizedek the Priest</h4>
+                                                    
+                                                              7 This Melchizedek was king of Salem and priest of God Most High. He met Abraham returning from the defeat of the kings and blessed him, 2 and Abraham gave him a tenth of everything. First, the name Melchizedek means “king of righteousness”; then also, “king of Salem” means “king of peace.” 3 Without father or mother, without genealogy, without beginning of days or end of life, resembling the Son of God, he remains a priest forever.
+                                                              
+                                                              4 Just think how great he was: Even the patriarch Abraham gave him a tenth of the plunder! 5 Now the law requires the descendants of Levi who become priests to collect a tenth from the people—that is, from their fellow Israelites—even though they also are descended from Abraham. 6 This man, however, did not trace his descent from Levi, yet he collected a tenth from Abraham and blessed him who had the promises. 7 And without doubt the lesser is blessed by the greater. 8 In the one case, the tenth is collected by people who die; but in the other case, by him who is declared to be living. 9 One might even say that Levi, who collects the tenth, paid the tenth through Abraham, 10 because when Melchizedek met Abraham, Levi was still in the body of his ancestor.
+                                                              
+                                                              Jesus Like Melchizedek
+                                                              11 If perfection could have been attained through the Levitical priesthood—and indeed the law given to the people established that priesthood—why was there still need for another priest to come, one in the order of Melchizedek, not in the order of Aaron? 12 For when the priesthood is changed, the law must be changed also. 13 He of whom these things are said belonged to a different tribe, and no one from that tribe has ever served at the altar. 14 For it is clear that our Lord descended from Judah, and in regard to that tribe Moses said nothing about priests. 15 And what we have said is even more clear if another priest like Melchizedek appears, 16 one who has become a priest not on the basis of a regulation as to his ancestry but on the basis of the power of an indestructible life. 17 For it is declared:
+                                                              
+                                                              “You are a priest forever,
+                                                                  in the order of Melchizedek.”[a]
+                                                              
+                                                              18 The former regulation is set aside because it was weak and useless 19 (for the law made nothing perfect), and a better hope is introduced, by which we draw near to God.
+                                                              
+                                                              20 And it was not without an oath! Others became priests without any oath, 21 but he became a priest with an oath when God said to him:
+                                                              
+                                                              “The Lord has sworn
+                                                                  and will not change his mind:
+                                                                  ‘You are a priest forever.’”[b]
+                                                              
+                                                              22 Because of this oath, Jesus has become the guarantor of a better covenant.
+                                                              
+                                                              23 Now there have been many of those priests, since death prevented them from continuing in office; 24 but because Jesus lives forever, he has a permanent priesthood. 25 Therefore he is able to save completely[c] those who come to God through him, because he always lives to intercede for them.
+                                                              
+                                                              26 Such a high priest truly meets our need—one who is holy, blameless, pure, set apart from sinners, exalted above the heavens. 27 Unlike the other high priests, he does not need to offer sacrifices day after day, first for his own sins, and then for the sins of the people. He sacrificed for their sins once for all when he offered himself. 28 For the law appoints as high priests men in all their weakness; but the oath, which came after the law, appointed the Son, who has been made perfect forever.
+                                    </p> 
+                                    </div>
+
+                                     <div className={styles.card2}>
+                                             <h2  className={styles.chapter2}>Hebrews Chapter VII</h2>
+                                              <p> 
+                                                       <h4> A Sabbath-Rest for the People of God</h4>
+
+
+                                    </p> 
+                                    </div>
+
+
+                                       <div className={styles.card2}>
+                                             <h2  className={styles.chapter2}>Hebrews Chapter VIII</h2>
+                                              <p> 
+                                                       <h4> A Sabbath-Rest for the People of God</h4>
+
+
+                                    </p> 
+                                    </div>
+
+                                     <div className={styles.card2}>
+                                             <h2  className={styles.chapter2}>Hebrews Chapter IX</h2>
+                                              <p> 
+                                                       <h4> A Sabbath-Rest for the People of God</h4>
+
+
+                                    </p> 
+                                    </div>
+
+
+
+                                     <div className={styles.card2}>
+                                             <h2  className={styles.chapter2}>Hebrews Chapter X</h2>
+                                              <p> 
+                                                       <h4> A Sabbath-Rest for the People of God</h4>
+
+
+                                    </p> 
+                                    </div>
+
+                                     <div className={styles.card2}>
+                                             <h2  className={styles.chapter2}>Hebrews Chapter XI</h2>
+                                              <p> 
+                                                       <h4> A Sabbath-Rest for the People of God</h4>
+
+
+                                    </p> 
+                                    </div>
+
+
+                                    
+                                     <div className={styles.card2}>
+                                             <h2  className={styles.chapter2}>Hebrews Chapter XII</h2>
+                                              <p> 
+                                                       <h4> A Sabbath-Rest for the People of God</h4>
+
+
+                                    </p> 
+                                    </div>
+
+                                     <div className={styles.card2}>
+                                             <h2  className={styles.chapter2}>Hebrews Chapter XIII</h2>
+                                              <p> 
+                                                       <h4> A Sabbath-Rest for the People of God</h4>
+
+
+                                    </p> 
+                                    </div>
+
+                                    
                                                   
   <div className={styles.card2}
           >
