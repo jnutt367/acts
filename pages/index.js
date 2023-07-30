@@ -1139,7 +1139,7 @@ and turn, and I would heal them.’[a]
         </h1>
           <div className={styles.image}>
                            <Image 
-                                                    src="/jesus_is_light.png"
+                                                    src="/high_priest.png"
                                                     alt="hero image for Hebrews"
                                                     height={900}
                                                     width={2000}
@@ -1339,8 +1339,7 @@ And again he says,
           </div>
 
 
-     
-
+    
         </div>
 </div>
         <p className={styles.description}> 
