@@ -1150,7 +1150,7 @@ and turn, and I would heal them.’[a]
                         </div>
     <p className={styles.parables}>
 
-         Hebrwes is written anonymously & addresses an audience familiar to the old covenant of the God of Israel. It elevates Jesus as superior to any one or anything else before Him.
+         Hebrews is written anonymously & addresses an audience familiar to the old covenant of the God of Israel. It elevates Jesus as superior to any one or anything else before Him.
 </p>                                                      
                   <div className={styles.nav2}>           
       <a href="https://luke-three.vercel.app/#philemon">
