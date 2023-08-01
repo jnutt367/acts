@@ -1173,7 +1173,7 @@ and turn, and I would heal them.’[a]
                                 priority
                               /> 
        </a>
-         <a href="https://acts-zeta.vercel.app/#hebrews">
+         <a href="https://romans-five.vercel.app/#james">
            <Image 
                                 src="/next.webp"
                                 alt="next"
