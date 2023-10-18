@@ -1186,7 +1186,12 @@ and turn, and I would heal them.’[a]
          
                </div>
                <div className={styles.iframe}> 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/1fNWTZZwgbs?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                    
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FDiscipleofChristJasonNutt%2Fposts%2Fpfbid02ggJ4a42gCpxjAzMemFyBttPAfx7u4kHjVZGvrETLKcs5QzBR54QbVJxWLs5iKsoTl&show_text=true&width=500?autoplay=1&mute=1" width="100%" height="350" style="border:none;overflow:hidden" scrolling="yes" frameborder="1" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+                                  
+                                  
+                   
                                   </div>
                                   
                               
