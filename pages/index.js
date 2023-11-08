@@ -31,14 +31,8 @@ export default function Home() {
         <h1 className={styles.title}>
          ACTS
         </h1>
-                <div className={styles.image}>
-           <Image 
-                                    src="/acts.png"
-                                    alt="Jesus rising"
-                                    height={900}
-                                    width={2000}
-                                    priority
-                                  />
+                <div className={styles.iframe}>
+       <iframe width="100%" height="315" src="https://www.youtube.com/embed/rwkVuRc3Sa0?si=Qfw1A0vZ-aBrWiXR?autoplay=1mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                  
                 </div>    
 <p className={styles.parables}>
