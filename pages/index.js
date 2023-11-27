@@ -1022,7 +1022,7 @@ Paul Before Agrippa
 </div>
 
 <div className={styles.card}>
-  <h2  className={styles.chapter}>Acts Chapter XXX</h2>>
+  <h2  className={styles.chapter}>Acts Chapter XXX</h2>
   <p>
   26 Then Agrippa said to Paul, “You have permission to speak for yourself.”
 
