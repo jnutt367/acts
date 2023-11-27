@@ -40,30 +40,33 @@ export default function Home() {
 </p>                                      
                <div className={styles.nav}>           
       <a href="https://john-zeta.vercel.app/">
+<p>Prev</p>    
              <Image 
                                 src="/previous.webp"
                                 alt="previous"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
        <a href="https://cash.app/$JNutt367">
+<p>Give</p>                                  
              <Image 
                                 src="/donations_please.webp"
                                 alt="home"
-                                 height={75}
-                                width={90}
+                                  height={25}
+                                width={25}
                                 priority
                               />
        </a>
          <a href="https://romans-five.vercel.app/">
+<p>Next</p>                                  
            <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               />
            
