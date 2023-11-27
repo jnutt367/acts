@@ -36,7 +36,7 @@ export default function Home() {
                                  
                 </div>    
 <p className={styles.parables}>
-Acts 2:17-21 In the last days it will be, God declares, that I will pour out my Spirit upon all flesh, and your sons and your daughters shall prophesy...                          
+Acts 2:17-21 In the last days will it be, God declares, that I will pour out my Spirit upon all flesh, and your sons and your daughters shall prophesy...                          
 </p>                                      
                <div className={styles.nav}>           
       <a href="https://john-zeta.vercel.app/">
